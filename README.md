@@ -6,6 +6,7 @@ De varias maneras he llegado a la necesidad de aprender a procesar textos en for
 He optado por concentrarme en dos herramientas básicas para este aprendizaje: R y Python.  Sugiero que usemos este espacio para comentar lo que vayamos aprendiendo y también lo que se nos vaya ocurriendo al explorar cosas de interés para nosotros.
 
 Algunos sitios interesantes que pueden ser de interes:
+http://www.davidmckenzie.info/musings/2012/11/23/clio-3-short-tutorial/
 http://www.nltk.org/
 http://www.r-bloggers.com/tag/latent-dirichlet-allocation/
 http://java.dzone.com/articles/topic-modeling-python-and-r
