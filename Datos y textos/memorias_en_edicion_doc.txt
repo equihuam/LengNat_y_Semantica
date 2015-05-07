@@ -567,7 +567,15 @@ Continúa!
 
 
 
-HORASITIODOMINGOLUNESMARTES9:00-10:00Auditorio del CC200
+HORA
+SITIO
+DOMINGO
+LUNES
+MARTES
+9:00-10:00
+Auditorio del CC200
+
+
 
 
 
@@ -583,8 +591,13 @@ HORASITIODOMINGOLUNESMARTES9:00-10:00Auditorio del CC200
 
 
 ACTIVIDADES VARIAS
-(Revisar sección: Otras Actividades)[CM] "Libertad Condicionada: genes, desarrollo, evolución y cáncer" Dra. Elena Álvarez-Buylla[CM] "Ecología, complejidad y cambio global en la era posthumanista" Dr. Pablo Marquet10:00-10:15--------RECESO
+(Revisar sección: Otras Actividades)
+[CM] "Libertad Condicionada: genes, desarrollo, evolución y cáncer" Dra. Elena Álvarez-Buylla
+[CM] "Ecología, complejidad y cambio global en la era posthumanista" Dr. Pablo Marquet
+10:00-10:15
+--------
 
+RECESO
 
 
 
@@ -593,49 +606,76 @@ ACTIVIDADES VARIAS
 
 
 
-10:15-12:40Sala 1[SIMP] Ecología evolutiva y genética de la conservación de plantas dioicas. Parte 1[SIMP] Ecología evolutiva y genética de la conservación de plantas dioicas. Parte 2Sala 2
-[SIMP] Biogeoquímica del carbono en ecosistemas áridos y simiáridos de México[SIMP] Patrones y procesos estructurando interacciones multitróficas en sistemas tropicales y las consecuencias para el mantenimiento de la biodiversidadSala 3[SIMP] Resiliencia y resistencia frente al desequilibrio de las zonas costeras[SIMP] Avances en Ecología Acuática en México. Parte 1Sala 4[SIMP] De la defaunación a la refaunación: un reto impostergable[SIMP] Estudios ecológicos en cactáceas: riesgos que afronta esta familia y alternativas para su conservación. Parte 1Sala 5[SIMP] Diversidad funcional: aspectos básicos y aplicaciones en conservación y restauración: Parte 1 aspectos básicos[SIMP] Diversidad funcional: aspectos básicos y aplicaciones en conservación y restauración: Parte 2 conservación y restauraciónSala 6[SIMP] Ecología de los bosques de encinos[SIMP]  Estudios ecológicos en la Sierra de Álamos: la distribución más norteña del bosque tropical seco en AméricaSala 7[SIMP] Fortalecimiento de capacidades para la vinculación internacional: participación global para la acción local[SIMP] Interacciones planta-herbívoro: patrones y procesos en ecosistemas NeotropicalesSala 8[SIMP] Determinación del caudal ecológico en cuatro cuencas de México[SIMP] La Importancia de la biodiversidad del suelo. Parte 1Sala 10[SIMP] La biodiversidad en paisajes tropicales fragmentados: Identificando amenazas y estrategias de conservación a diferentes escalas[SIMP] Estudios ecológicos de largo plazo: factores, procesos y mecanismos determinantes de la dinámica y estructura de poblaciones, comunidades y ecosistemasSala 11[SIMP] La Incidencia de la ciencia en conflictos socio-ambientales[SIMP] Perspectivas en los estudios de diversidad de escarabajos del estiércol en ambientes antropizados en MéxicoSala 12[SIMP] Las interacciones bióticas como un eje común para estudios de conservación biológica y restauración[SIMP] Inventario integral del Churince en Cuatro Ciénegas CoahuilaSala 13----------------Auditorio del
-CC200Proyección de Videos "Retos y Perspectivas de la Ecología en México"[MR]   "La voz de los actores"
 
 
 
+10:15-12:40
+Sala 1
 
+[SIMP] Ecología evolutiva y genética de la conservación de plantas dioicas. Parte 1
+[SIMP] Ecología evolutiva y genética de la conservación de plantas dioicas. Parte 2
 
+Sala 2
 
 
+[SIMP] Biogeoquímica del carbono en ecosistemas áridos y simiáridos de México
+[SIMP] Patrones y procesos estructurando interacciones multitróficas en sistemas tropicales y las consecuencias para el mantenimiento de la biodiversidad
 
+Sala 3
 
+[SIMP] Resiliencia y resistencia frente al desequilibrio de las zonas costeras
+[SIMP] Avances en Ecología Acuática en México. Parte 1
 
-12:40-14:00
+Sala 4
 
+[SIMP] De la defaunación a la refaunación: un reto impostergable
+[SIMP] Estudios ecológicos en cactáceas: riesgos que afronta esta familia y alternativas para su conservación. Parte 1
 
+Sala 5
 
+[SIMP] Diversidad funcional: aspectos básicos y aplicaciones en conservación y restauración: Parte 1 aspectos básicos
+[SIMP] Diversidad funcional: aspectos básicos y aplicaciones en conservación y restauración: Parte 2 conservación y restauración
 
+Sala 6
 
+[SIMP] Ecología de los bosques de encinos
+[SIMP]  Estudios ecológicos en la Sierra de Álamos: la distribución más norteña del bosque tropical seco en América
 
+Sala 7
 
+[SIMP] Fortalecimiento de capacidades para la vinculación internacional: participación global para la acción local
+[SIMP] Interacciones planta-herbívoro: patrones y procesos en ecosistemas Neotropicales
 
+Sala 8
 
-Vestíbulo del CC200REGISTRO[C] Ecología Funcional (Mampara 1-14)[C] Ecología Funcional (Mampara 1-14)[C] Ecología de la Conducta (Mampara 15-17)[C] Ecología de la Conducta (Mampara 15-16)[C] Ecología de Poblaciones (Mampara 18-30)[C] Ecología de Poblaciones (Mampara 17-30)[C] Ecología Molecular (Mampara 31-34)[C] Ecología Molecular (Mampara 31-33)[C] Ecología Evolutiva (Mampara 35-40)[C] Ecología Evolutiva (Mampara 34-38)[C] Ecología de Comunidades (Mampara 41-65)[C] Ecología de Comunidades (Mampara 39-64)[C] Ecología de Ecosistemas (Mampara 66-70)[C] Ecología de Ecosistemas (Mampara 65-69)[C] Macroecología y Biogeografía (Mampara 71-74)[C] Macroecología y Biogeografía (Mampara 70-73)[C] Ecología de la Conservación (Mampara 75-89)[C] Ecología de la Conservación (Mampara 74-86)[C] Ecología del Paisaje  (Mampara 90-91)[C] Ecología del Paisaje  (Mampara 87-89)[C] Cambio Global (Mampara 92-94)[C] Cambio Global (Mampara 90-92)[C] Ecología aplicada (Mampara 95-98)[C] Ecología aplicada (Mampara 93-96)[C] Ecología de la Restauración (Mampara 99-108)[C] Ecología de la Restauración (Mampara 97-106)[C] Impactos antrópicos (Mampara 109-114)[C] Impactos antrópicos (Mampara 108-112)[C] Ecología Urbana (Mampara 115-120)[C] Ecología Urbana (Mampara 113-118)[C] Manejo de Ecosistemas (Mampara 121-125)[C] Manejo de Ecosistemas (Mampara 119-123)[C] Sustentabilidad (Mampara 126-130)[C] Sustentabilidad (Mampara 124-128)[C] Sistemas socioecológicos (Mampara 131-132)[C] Sistemas socioecológicos (Mampara 129-130)[C] Ecología y Sociedad (Mampara 133-136)[C] Ecología y Sociedad (Mampara 131-134)[C] Etnoecología (Mampara 137-139)[C] Etnoecología (Mampara 135-138)Sala 1----------------Sala 10----------------Mezzanine[CC] Especies invasoras en un mundo globalizado[CC] Ecología y cambio global14:00-15:30--------COMIDA
+[SIMP] Determinación del caudal ecológico en cuatro cuencas de México
+[SIMP] La Importancia de la biodiversidad del suelo. Parte 1
 
+Sala 10
 
+[SIMP] La biodiversidad en paisajes tropicales fragmentados: Identificando amenazas y estrategias de conservación a diferentes escalas
+[SIMP] Estudios ecológicos de largo plazo: factores, procesos y mecanismos determinantes de la dinámica y estructura de poblaciones, comunidades y ecosistemas
 
+Sala 11
 
+[SIMP] La Incidencia de la ciencia en conflictos socio-ambientales
+[SIMP] Perspectivas en los estudios de diversidad de escarabajos del estiércol en ambientes antropizados en México
 
+Sala 12
 
+[SIMP] Las interacciones bióticas como un eje común para estudios de conservación biológica y restauración
+[SIMP] Inventario integral del Churince en Cuatro Ciénegas Coahuila
 
+Sala 13
 
-15:30-18:00Sala 1[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)Sala 2[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)Sala 3[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)[SO] Ecología de Poblaciones & Ecología Funcional (15:30-17:00) y Ecología Funcional (17:15-18:00)Sala 4[SO] Ecología Funcional (15:30-17:00) y Ecología Evolutiva (17:15-18:00)[SO]  Ecología Evolutiva (15:30-17:00 y 17:15-18:00)Sala 5[SO] Ecología de la Conducta (15:30 -16:45) y Ecología Molecular (17:15-18:00)[SO] Ecología Molecular (15:30-17:00) y Ecología Molecular & Ecología de la Conducta (17:15-18:00)Sala 6[SO] Ecología de Ecosistemas (15:30-17:00 y 17:15-18:00)[SO] Ecología de Ecosistemas (15:30-17:00 y 17:15-18:00)Sala 7[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)Sala 8[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)[SO] Ecología de Comunidades (15:30-17:00) y Ecología de la Conservación (17:15-18:00)Sala 10[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)Sala 11[SO] Ecología de la Restauración (15:30-17:00 y 17:15-18:00)[SO] Ecología de la Restauración (15:30-17:00 y 17:15-18:00)Sala 12[SO] Manejo de Ecosistemas (15:30-17:00) y Cambio Global (17:15-18:00)[SO] Manejo de Ecosistemas (15:30-17:00) y Ecología del Paisaje (17:15-18:00)Sala 13[SO] Macroecología y Biogeografía (15:30-17:00) y Ecología de la Conservación (17:15-18:00)[SO] Macroecología y Biogeografía (15:30-16:45) y Ecología del paisaje (17:15- 18:00)Auditorio del CC200
----------
----------18:00-18:15--------*Ceremonia de InauguraciónRECESO18:15-19:15Auditorio del CC200 (*)/
-Vestíbulo del CC200(**)*[CM] "Species invasions as passengers and drivers of global change" Dra. Yvonne Buckley*[CM] "Dimensions, traits, and payments" Dr. Shahim Naeem19:15-21:00
-** Brindis
-* Evento Cultural
-* Evento Cultural21:00 en
-adelante
+--------
+--------
 
-MIÉRCOLESJUEVESVIERNESSITIOHORA[CM] "Cuatro Ciénegas: la paradoja del agua en el desierto" Dra. Valeria Souza[CM] "Cambio climático y ecología de arrecifes de coral" Dr. Héctor Reyes BonillaEXCURSIONESAuditorio del CC2009:00-10:00RECESO--------10:00-10:15[SIMP] Resiliencia y conservación de ecosistemas ribereños en zonas áridas[SO] Ecología de Comunidades (10:20-11:20 y 11:40-12:40)Sala 1
+Auditorio del
+CC200
 
+Proyección de Videos "Retos y Perspectivas de la Ecología en México"
+[MR]   "La voz de los actores"
 
 
 
@@ -644,48 +684,592 @@ MIÉRCOLESJUEVESVIERNESSITIOHORA[CM] "Cuatro Ciénegas: la paradoja del agu
 
 
 
-10:15-12:40
-[SIMP] Ecología evolutiva de interacciones planta-animal
-[SO] Ecología de Poblaciones  (10:20-11:20 y 11:40-12:40)Sala 2[SIMP] Avances en Ecología Acuática en México. Parte 2[SO] Ecología de Funcional  (10:20-11:20 y 11:40-12:40)Sala 3[SIMP] Estudios ecológicos en cactáceas: riesgos que afronta esta familia y alternativas para su conservación. Parte 2[SO] Ecología Evolutiva (10:20-11:20 y 11:40-12:40)Sala 4[SIMP] Potencial de la biodiversidad y los ecosistemas para mitigar el cambio climático en América Latina[SO] Ecología Urbana (10:20-11:20 y 11:40-12:40)Sala 5[SIMP] Anfibios y reptiles en paisajes modificados por actividades humanas[SO] Sustentabilidad (10:20-11:20 y 11:40-12:40)Sala 6[SIMP] La investigación ecológica para el manejo de productos forestales no maderables: ámbitos de análisis y pertinencia instrumental de la investigación científica
-[SO] Ecología de la Conservación (10:20-11:20 y 11:40-12:40)Sala 7[SIMP]  La Importancia de la biodiversidad del suelo. Parte 2[SO] Ecología de la Conservación (10:20-11:20 y 11:40-12:40)Sala 8
-[SIMP] Avances conceptuales y metodológicos de la teoría del nicho ecológico
-[SO] Ecología de Comunidades (10:20-11:20 y 11:40-12:40)Sala 10[SIMP] El papel de las ecotecnologías en el manejo de sistemas socio- ecológicos: cambio global y experiencias locales en México[SO] Ecología Aplicada (10:20-11:20) y Ecología & Sociedad (11:40-12:40)Sala 11[SIMP]  Importancia de los huertos familiares en la conservación del patrimonio biocultural de México[SO] Ecología del Paisaje (10:20-11:20 y Ecología del Paisaje & Etnoecología (11:40-12:40)Sala 12--------[SO] Ecología del paisaje (10:20-11:20 y 11:40-12:40)Sala 13[MR] Actores sociales y conservación de la biodiversidadProyección de Videos "Retos y Perspectivas de la Ecología en México"Auditorio del
-CC200[C] Ecología Funcional (Mampara 1-15)[C] Ecología Funcional (Mampara 1-14)
 
 
 
 
+12:40-14:00
 
 
 
 
 
-Vestíbulo del CC200
 
 
 
 
 
 
+Vestíbulo del CC200
+REGISTRO
+[C] Ecología Funcional (Mampara 1-14)
+[C] Ecología Funcional (Mampara 1-14)
 
 
 
+[C] Ecología de la Conducta (Mampara 15-17)
+[C] Ecología de la Conducta (Mampara 15-16)
 
-12:40-14:00[C] Ecología de la Conducta (Mampara 16-17)[C] Ecología de la Conducta (Mampara 15-16)[C] Ecología de Poblaciones (Mampara 18-32)[C] Ecología de Poblaciones (Mampara 17-30)[C] Ecología Molecular (Mampara 33-35)[C] Ecología Molecular (Mampara 31-33)[C] Ecología Evolutiva (Mampara 36-40)[C] Ecología Evolutiva (Mampara 34-38)[C] Ecología de Comunidades (Mampara 41-65)[C] Ecología de Comunidades (Mampara 39-61)[C] Ecología de Ecosistemas (Mampara 66-70)[C] Ecología de Ecosistemas (Mampara 62-67)[C] Macroecología y Biogeografía (Mampara 71-74)[C] Macroecología y Biogeografía (Mampara 68-70)[C] Ecología de la Conservación (Mampara 75-89)[C] Ecología de la Conservación (Mampara 71-86)[C] Ecología del Paisaje  (Mampara 90-91)[C] Ecología del Paisaje  (Mampara 87-89)[C] Cambio Global (Mampara 92-94)[C] Cambio Global (Mampara 90-92)[C] Ecología aplicada (Mampara 95-98)[C] Ecología aplicada (Mampara 93-95)[C] Ecología de la Restauración (Mampara 99-107)[C] Ecología de la Restauración (Mampara 96-104)[C] Impactos antrópicos (Mampara 108-114)[C] Impactos antrópicos (Mampara 105-110)[C] Ecología Urbana (Mampara 115-120)[C] Ecología Urbana (Mampara 111-1116)[C] Manejo de Ecosistemas (Mampara 121-125)[C] Manejo de Ecosistemas (Mampara 117-121)[C] Sustentabilidad (Mampara 126-130)[C] Sustentabilidad (Mampara 1262-126)[C] Sistemas socioecológicos (Mampara 131-132)[C] Sistemas socioecológicos (Mampara 127-128)[C] Ecología y Sociedad (Mampara 133-136)[C] Ecología y Sociedad (Mampara 129-132)[C] Etnoecología (Mampara 137-139)[C] Etnoecología (Mampara 133-136)[CC] Mujeres en la Ciencia--------Sala 1Presentación de Libro: La ecotecnología en México (13:00-14:00 hrs)--------Sala 10--------[CC] La problemática de Cabo PulmoMezzanineCOMIDA--------14:00-15:30[SO] Ecología de Comunidades (15:30-17:00)[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)Sala 1
 
 
+[C] Ecología de Poblaciones (Mampara 18-30)
+[C] Ecología de Poblaciones (Mampara 17-30)
 
 
 
+[C] Ecología Molecular (Mampara 31-34)
+[C] Ecología Molecular (Mampara 31-33)
 
 
 
-15:30-18:00[SO] Ecología de Poblaciones  (15:30-17:00)[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)Sala 2[SO] Ecología de Funcional  (15:30-17:00)[SO] Ecología de Funcional  (15:30-17:00 y 17:15-18:00)Sala 3[SO] Ecología Evolutiva (15:30-17:00)[SO] Ecología Evolutiva y Ecología Molecular (15:30-17:00) y Ecología Molecular (17:15-18:99)Sala 4[SO] Ecología de la Conducta (15:30-16:45)[SO] Sistemas socioecológicos (15:30-17:00  y 17:15-17:45))Sala 5[SO] Cambio Global (15:30-17:00)[SO] Sustentabilidad & Ecología Urbana (15:30-17:00) y Ecología Aplicada (17:15-18:00)Sala 6[SO] Ecología de la Conservación (15:30 -17:00)[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)Sala 7[SO] Ecología de la Conservación (15:30 -17:00)[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)Sala 8[SO] Ecología de Comunidades (15:30-17:00)[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)Sala 10[SO] Ecología de la Restauración & Ecología Aplicada (15:30-17:00)[SO] Ecología y Sociedad (15:30-17:00)Sala 11[SO] Manejo de Ecosistemas (15:30-17:00)[SO] Impactos antrópicos (15:30-17:00 y 17:15-17:30)Sala 12[SO] Ecología del paisaje (15:30-17:00)[SO] Etnoecología (15:30-16:45)Sala 13[CM] "Long-term studies of global and regional climate change on phenology of wildflowers and animals in the Colorado Rocky Mountains" Dr. David Inouye (17:15-18:00)
-Presentación de Contribuciones en Video (15:30-18:00)Auditorio del CC200RECESO--------18:00-18:15* Sesión Solemne: Entrega del reconocimiento al Mérito Ecológico
-* Asamblea general de la Sociedad Científica Mexicana de EcologíaAuditorio del CC200 (*)/
-Vestíbulo del CC200(**)18:15-19:15
-Callejoneada19:15-21:00Cena Baile21:00 en
-adelante
+[C] Ecología Evolutiva (Mampara 35-40)
+[C] Ecología Evolutiva (Mampara 34-38)
+
+
+
+[C] Ecología de Comunidades (Mampara 41-65)
+[C] Ecología de Comunidades (Mampara 39-64)
+
+
+
+[C] Ecología de Ecosistemas (Mampara 66-70)
+[C] Ecología de Ecosistemas (Mampara 65-69)
+
+
+
+[C] Macroecología y Biogeografía (Mampara 71-74)
+[C] Macroecología y Biogeografía (Mampara 70-73)
+
+
+
+[C] Ecología de la Conservación (Mampara 75-89)
+[C] Ecología de la Conservación (Mampara 74-86)
+
+
+
+[C] Ecología del Paisaje  (Mampara 90-91)
+[C] Ecología del Paisaje  (Mampara 87-89)
+
+
+
+[C] Cambio Global (Mampara 92-94)
+[C] Cambio Global (Mampara 90-92)
+
+
+
+[C] Ecología aplicada (Mampara 95-98)
+[C] Ecología aplicada (Mampara 93-96)
+
+
+
+[C] Ecología de la Restauración (Mampara 99-108)
+[C] Ecología de la Restauración (Mampara 97-106)
+
+
+
+[C] Impactos antrópicos (Mampara 109-114)
+[C] Impactos antrópicos (Mampara 108-112)
+
+
+
+[C] Ecología Urbana (Mampara 115-120)
+[C] Ecología Urbana (Mampara 113-118)
+
+
+
+[C] Manejo de Ecosistemas (Mampara 121-125)
+[C] Manejo de Ecosistemas (Mampara 119-123)
+
+
+
+[C] Sustentabilidad (Mampara 126-130)
+[C] Sustentabilidad (Mampara 124-128)
+
+
+
+[C] Sistemas socioecológicos (Mampara 131-132)
+[C] Sistemas socioecológicos (Mampara 129-130)
+
+
+
+[C] Ecología y Sociedad (Mampara 133-136)
+[C] Ecología y Sociedad (Mampara 131-134)
+
+
+
+[C] Etnoecología (Mampara 137-139)
+[C] Etnoecología (Mampara 135-138)
+
+Sala 1
+
+--------
+--------
+
+Sala 10
+
+--------
+--------
+
+Mezzanine
+
+[CC] Especies invasoras en un mundo globalizado
+[CC] Ecología y cambio global
+14:00-15:30
+--------
+
+COMIDA
+
+
+
+
+
+
+
+
+
+
+15:30-18:00
+Sala 1
+
+[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)
+[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)
+
+Sala 2
+
+[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)
+[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)
+
+Sala 3
+
+[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)
+[SO] Ecología de Poblaciones & Ecología Funcional (15:30-17:00) y Ecología Funcional (17:15-18:00)
+
+Sala 4
+
+[SO] Ecología Funcional (15:30-17:00) y Ecología Evolutiva (17:15-18:00)
+[SO]  Ecología Evolutiva (15:30-17:00 y 17:15-18:00)
+
+Sala 5
+
+[SO] Ecología de la Conducta (15:30 -16:45) y Ecología Molecular (17:15-18:00)
+[SO] Ecología Molecular (15:30-17:00) y Ecología Molecular & Ecología de la Conducta (17:15-18:00)
+
+Sala 6
+
+[SO] Ecología de Ecosistemas (15:30-17:00 y 17:15-18:00)
+[SO] Ecología de Ecosistemas (15:30-17:00 y 17:15-18:00)
+
+Sala 7
+
+[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)
+[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)
+
+Sala 8
+
+[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)
+[SO] Ecología de Comunidades (15:30-17:00) y Ecología de la Conservación (17:15-18:00)
+
+Sala 10
+
+[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)
+[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)
+
+Sala 11
+
+[SO] Ecología de la Restauración (15:30-17:00 y 17:15-18:00)
+[SO] Ecología de la Restauración (15:30-17:00 y 17:15-18:00)
+
+Sala 12
+
+[SO] Manejo de Ecosistemas (15:30-17:00) y Cambio Global (17:15-18:00)
+[SO] Manejo de Ecosistemas (15:30-17:00) y Ecología del Paisaje (17:15-18:00)
+
+Sala 13
+
+[SO] Macroecología y Biogeografía (15:30-17:00) y Ecología de la Conservación (17:15-18:00)
+[SO] Macroecología y Biogeografía (15:30-16:45) y Ecología del paisaje (17:15- 18:00)
+
+Auditorio del CC200
+
+
+---------
+
+
+---------
+18:00-18:15
+--------
+*Ceremonia de Inauguración
+RECESO
+18:15-19:15
+Auditorio del CC200 (*)/
+Vestíbulo del CC200(**)
+
+*[CM] "Species invasions as passengers and drivers of global change" Dra. Yvonne Buckley
+*[CM] "Dimensions, traits, and payments" Dr. Shahim Naeem
+19:15-21:00
+
+
+** Brindis
+
+
+* Evento Cultural
+
+
+* Evento Cultural
+21:00 en
+adelante
+
+
+
+
+
+
+
+MIÉRCOLES
+JUEVES
+VIERNES
+SITIO
+HORA
+[CM] "Cuatro Ciénegas: la paradoja del agua en el desierto" Dra. Valeria Souza
+[CM] "Cambio climático y ecología de arrecifes de coral" Dr. Héctor Reyes Bonilla
+EXCURSIONES
+Auditorio del CC200
+9:00-10:00
+RECESO
+
+--------
+10:00-10:15
+[SIMP] Resiliencia y conservación de ecosistemas ribereños en zonas áridas
+[SO] Ecología de Comunidades (10:20-11:20 y 11:40-12:40)
+
+Sala 1
+
+
+
+
+
+
+
+
+
+
+
+10:15-12:40
+
+
+[SIMP] Ecología evolutiva de interacciones planta-animal
+
+
+[SO] Ecología de Poblaciones  (10:20-11:20 y 11:40-12:40)
+
+Sala 2
+
+[SIMP] Avances en Ecología Acuática en México. Parte 2
+[SO] Ecología de Funcional  (10:20-11:20 y 11:40-12:40)
+
+Sala 3
+
+[SIMP] Estudios ecológicos en cactáceas: riesgos que afronta esta familia y alternativas para su conservación. Parte 2
+[SO] Ecología Evolutiva (10:20-11:20 y 11:40-12:40)
+
+Sala 4
+
+[SIMP] Potencial de la biodiversidad y los ecosistemas para mitigar el cambio climático en América Latina
+[SO] Ecología Urbana (10:20-11:20 y 11:40-12:40)
+
+Sala 5
+
+[SIMP] Anfibios y reptiles en paisajes modificados por actividades humanas
+[SO] Sustentabilidad (10:20-11:20 y 11:40-12:40)
+
+Sala 6
+
+[SIMP] La investigación ecológica para el manejo de productos forestales no maderables: ámbitos de análisis y pertinencia instrumental de la investigación científica
+
+
+[SO] Ecología de la Conservación (10:20-11:20 y 11:40-12:40)
+
+Sala 7
+
+[SIMP]  La Importancia de la biodiversidad del suelo. Parte 2
+[SO] Ecología de la Conservación (10:20-11:20 y 11:40-12:40)
+
+Sala 8
+
+
+[SIMP] Avances conceptuales y metodológicos de la teoría del nicho ecológico
+
+
+[SO] Ecología de Comunidades (10:20-11:20 y 11:40-12:40)
+
+Sala 10
+
+[SIMP] El papel de las ecotecnologías en el manejo de sistemas socio- ecológicos: cambio global y experiencias locales en México
+[SO] Ecología Aplicada (10:20-11:20) y Ecología & Sociedad (11:40-12:40)
+
+Sala 11
+
+[SIMP]  Importancia de los huertos familiares en la conservación del patrimonio biocultural de México
+[SO] Ecología del Paisaje (10:20-11:20 y Ecología del Paisaje & Etnoecología (11:40-12:40)
+
+Sala 12
+
+--------
+[SO] Ecología del paisaje (10:20-11:20 y 11:40-12:40)
+
+Sala 13
+
+[MR] Actores sociales y conservación de la biodiversidad
+Proyección de Videos "Retos y Perspectivas de la Ecología en México"
+
+Auditorio del
+CC200
+
+[C] Ecología Funcional (Mampara 1-15)
+[C] Ecología Funcional (Mampara 1-14)
+
+
+
+
+
+
+
+
+
+
+
+Vestíbulo del CC200
+
+
+
+
+
+
+
+
+
+
+
+
+12:40-14:00
+[C] Ecología de la Conducta (Mampara 16-17)
+[C] Ecología de la Conducta (Mampara 15-16)
+
+
+
+[C] Ecología de Poblaciones (Mampara 18-32)
+[C] Ecología de Poblaciones (Mampara 17-30)
+
+
+
+[C] Ecología Molecular (Mampara 33-35)
+[C] Ecología Molecular (Mampara 31-33)
+
+
+
+[C] Ecología Evolutiva (Mampara 36-40)
+[C] Ecología Evolutiva (Mampara 34-38)
+
+
+
+[C] Ecología de Comunidades (Mampara 41-65)
+[C] Ecología de Comunidades (Mampara 39-61)
+
+
+
+[C] Ecología de Ecosistemas (Mampara 66-70)
+[C] Ecología de Ecosistemas (Mampara 62-67)
+
+
+
+[C] Macroecología y Biogeografía (Mampara 71-74)
+[C] Macroecología y Biogeografía (Mampara 68-70)
+
+
+
+[C] Ecología de la Conservación (Mampara 75-89)
+[C] Ecología de la Conservación (Mampara 71-86)
+
+
+
+[C] Ecología del Paisaje  (Mampara 90-91)
+[C] Ecología del Paisaje  (Mampara 87-89)
+
+
+
+[C] Cambio Global (Mampara 92-94)
+[C] Cambio Global (Mampara 90-92)
+
+
+
+[C] Ecología aplicada (Mampara 95-98)
+[C] Ecología aplicada (Mampara 93-95)
+
+
+
+[C] Ecología de la Restauración (Mampara 99-107)
+[C] Ecología de la Restauración (Mampara 96-104)
+
+
+
+[C] Impactos antrópicos (Mampara 108-114)
+[C] Impactos antrópicos (Mampara 105-110)
+
+
+
+[C] Ecología Urbana (Mampara 115-120)
+[C] Ecología Urbana (Mampara 111-1116)
+
+
+
+[C] Manejo de Ecosistemas (Mampara 121-125)
+[C] Manejo de Ecosistemas (Mampara 117-121)
+
+
+
+[C] Sustentabilidad (Mampara 126-130)
+[C] Sustentabilidad (Mampara 1262-126)
+
+
+
+[C] Sistemas socioecológicos (Mampara 131-132)
+[C] Sistemas socioecológicos (Mampara 127-128)
+
+
+
+[C] Ecología y Sociedad (Mampara 133-136)
+[C] Ecología y Sociedad (Mampara 129-132)
+
+
+
+[C] Etnoecología (Mampara 137-139)
+[C] Etnoecología (Mampara 133-136)
+
+
+
+[CC] Mujeres en la Ciencia
+--------
+
+Sala 1
+
+Presentación de Libro: La ecotecnología en México (13:00-14:00 hrs)
+--------
+
+Sala 10
+
+--------
+[CC] La problemática de Cabo Pulmo
+
+Mezzanine
+
+COMIDA
+
+--------
+14:00-15:30
+[SO] Ecología de Comunidades (15:30-17:00)
+[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)
+
+Sala 1
+
+
+
+
+
+
+
+
+
+
+15:30-18:00
+[SO] Ecología de Poblaciones  (15:30-17:00)
+[SO] Ecología de Poblaciones  (15:30-17:00 y 17:15-18:00)
+
+Sala 2
+
+[SO] Ecología de Funcional  (15:30-17:00)
+[SO] Ecología de Funcional  (15:30-17:00 y 17:15-18:00)
+
+Sala 3
+
+[SO] Ecología Evolutiva (15:30-17:00)
+[SO] Ecología Evolutiva y Ecología Molecular (15:30-17:00) y Ecología Molecular (17:15-18:99)
+
+Sala 4
+
+[SO] Ecología de la Conducta (15:30-16:45)
+[SO] Sistemas socioecológicos (15:30-17:00  y 17:15-17:45))
+
+Sala 5
+
+[SO] Cambio Global (15:30-17:00)
+[SO] Sustentabilidad & Ecología Urbana (15:30-17:00) y Ecología Aplicada (17:15-18:00)
+
+Sala 6
+
+[SO] Ecología de la Conservación (15:30 -17:00)
+[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)
+
+Sala 7
+
+[SO] Ecología de la Conservación (15:30 -17:00)
+[SO] Ecología de la Conservación (15:30 -17:00 y 17:15-18:00)
+
+Sala 8
+
+[SO] Ecología de Comunidades (15:30-17:00)
+[SO] Ecología de Comunidades (15:30-17:00 y 17:15-18:00)
+
+Sala 10
+
+[SO] Ecología de la Restauración & Ecología Aplicada (15:30-17:00)
+[SO] Ecología y Sociedad (15:30-17:00)
+
+Sala 11
+
+[SO] Manejo de Ecosistemas (15:30-17:00)
+[SO] Impactos antrópicos (15:30-17:00 y 17:15-17:30)
+
+Sala 12
+
+[SO] Ecología del paisaje (15:30-17:00)
+[SO] Etnoecología (15:30-16:45)
+
+Sala 13
+
+[CM] "Long-term studies of global and regional climate change on phenology of wildflowers and animals in the Colorado Rocky Mountains" Dr. David Inouye (17:15-18:00)
+
+
+Presentación de Contribuciones en Video (15:30-18:00)
+
+Auditorio del CC200
+
+RECESO
+
+--------
+18:00-18:15
+* Sesión Solemne: Entrega del reconocimiento al Mérito Ecológico
+
+
+* Asamblea general de la Sociedad Científica Mexicana de Ecología
+
+Auditorio del CC200 (*)/
+Vestíbulo del CC200(**)
+18:15-19:15
+
+
+Callejoneada
+
+
+
+19:15-21:00
+
+Cena Baile
+
+
+21:00 en
+adelante
+
+
 Conferencias Magistrales
 
 Lunes 20 de abril, 09:00 hrs
@@ -59731,11 +60315,33 @@ Congreso
 Mexicano
 
 
-3615036151
-36152
-36153
-36154
-36155ÍNDICE DE AUTORES3615636157
+36150
+
+36151
+
+
+36152
+
+
+36153
+
+
+36154
+
+
+36155
+ÍNDICE 
+DE 
+AUTORES
+36156
+
+
+
+36157
+
+
+
+
 
 
 
@@ -60515,7 +61121,182 @@ Congreso
 Mexicano
 
 
-Héctor Javier Villegas Moreno	336Inara Leal Roberta	25J. Jesús García Magaña .......... 138, 384Héctor Jiménez Hernández	444Inari Sosa Aranda	350J. Luis Hernández-Stefanoni	368Héctor Leonardo Martínez Torres	321Indira Figueroa Torres	241J.A. Cervantes Pasqualli	11Héctor Octavio Godínez Álvarez .... 481,Indira Reta Heredia	426Jacinto Aurelio Che Herrera	576562Ingreet Juliet Cano Castellanos	305Jacinto Treviño Carreón........... 473, 543Héctor S. Luna Zendejas	514Ingrid García Gómez	440Jade Melissa Pereyda González	461Héctor Takeshi Arita Watanabe180, 563Ingrid Hernández Monterde	364Jaguri Uriel Martínez Lizcano	490Heidi Patricia Medorio García	166Irais Avila Eulogio	338Jaime Garatuza Payán............. 534, 575Helia Reyna Osuna Fernandez	568Irama Núñez Tancredi	594Jaime Garatuza-Payán .............. 50, 254Hellen Martínez Roldán	338Irene Ávila Díaz	174Jaime Luevano Esparza	283Hermes Lustre Sánchez .............. 43, 90Irene Ayala Arboleda	386Jaime Martínez Castillo	116Hermilo Sánchez Sánchez ..... 324, 428,Irene de los A. Barriga Sosa	500Jaime Sánchez Salas....... 361, 569, 570429Irene Gélvez Zúñiga 197, 234, 401, 443,Janelle Sacnité Chávez Barrera	169Hernan Celaya Michel ............. 248, 443484Janette Iliana Parra Villa .......... 177, 280Hernán Muñoz	307Irene Pisanty Baruch 297, 327, 335, 351Janette Jifkins Landero	306Hernando A. Rodríguez Correa	35Irene Sánchez Gallén .............. 125, 412Janneth Alejandra Martínez Vargas. 414Hernani Alves Almeida	401Irene Zapata Morán	333Jaqueline Campos Jiménez..... 209, 210Hibraim Adan Pérez Mendoza	259Ireri Suazo Ortuño..... 79, 244, 303, 317,Javier Alcocer Durand	38Hibraim Adán Pérez Mendoza	341572Javier Alvarado Díaz. 79, 144, 303, 317,Hilda Díaz López	572Iriana Zuria Jordan........... 267, 449, 508414, 482, 572Hilda Julieta Arreola Nava ......... 73, 243Irina Llamas Torres	284Javier Amaro Castañeda Bautista... 312,Hilda Marcela Pérez Escobedo	594Iris Adriana Hernández López	344490, 491Hilda María Díaz López	527Iris Neri Flores............................ 23, 314Javier Bello Pineda	284Horacio Jesúa De la Cueva SalcedoIrma Alejandra Ruiz Guerrero	488Javier Caraveo Patiño	559........................................... 439, 464Irma Reyes Jaramillo ............... 311, 363Javier Fortanelli Martínez......... 415, 483Horacio Paz Hernández.... 46, 109, 174,Irving Saenz Pedroza	353Javier Gómez Crosvy	314252, 420, 467Irving Uriel Hernández Gómez	385Javier Hernández Guzmán	583Horacio Salomón Ballina Gómez.... 108,Isaac Games Badouin................ 50, 254Javier Laborde Dovalí .............. 149, 328148, 251, 461, 501, 502Isac Mella Méndez	267Javier López Upton	121Hortensia Carrillo Ruiz ..... 352, 381, 418Isadora Torres Guerrero	488Javier Manuel Flores Moreno	93Hugo Alberto Castillo Gómez	415Isai Olalde Estrada	309Javier Medina Sánchez	342Hugo Alfredo Medina Medrano	226Isaías Hazarmabeth Salgado Ugarte115Javier Mirón Rivera .......... 173, 306, 502Hugo López Martínez	284Isela Zermeño Hernández	199Javier Ponce Saavedra	227Hugo López Rosas .......... 256, 533, 556Isis Daniela Salazar Gómez	380Javier Tolome Romero	551Hugo Magdaleno Ramírez Tobías... 468Isis Johana Montoya Valdivias	237Javier Villegas Moreno............. 188, 580Hugo Ruiz Piña	382Ismael Mariño Tapia	8Jazmín Ayizde Guerrero Delgado	537Huitziméngari Campos García 200, 395,Ismael Pat Aké	227Jazmín Enríquez Roa	78396Isolda Luna Vega	144Jazmín Martínez Mijares .......... 123, 266Humberto González Rodríguez ...... 345,Israel Cantú Silva..................... 425, 452Jazmín Sánchez Rosales	351402, 425, 452, 562Israel Cantú-Silva	386Jazmín Solís Carpio	76Humberto González-Rodríguez	386Israel Carrillo Angeles	503Jeff Christofher González Díaz	345Humberto Peraza Villarreal	46Israel Cruz Jiménez	273Jennie Melhado Carboney	492Humberto Reyes Hernández .. 174, 228,Israel Guerrero Cárdenas	517Jessica Berenice López Caro	552483Itzel Carolina Patricio López	467Jéssica C. Faria Falcão	32Itzel Lemus Domínguez	159Jessica de Jesús Sosa Quintero	481IItzel Real Benítez	377Jessica González Paredes	53Ian MacGregor Fors................. 265, 450Itzel Zigala Regalado	554Jessica Hernández Jerónimo	63Ibiza Martínez Serrano	209Iván Camargo	65Jessica Juan Espinosa............. 180, 488Ignacio Castellanos ................. 449, 508Iván Castellanos Vargas .. 101, 176, 355Jessica Juárez Sandoval	331Ignacio Castellanos Sturemark 449, 508Ivan Dario Camargo Rodríguez	260Jessica Magdalena Reyes Tovar	403Ignacio Maldonado-Mendoza	312Iván David Méndez González	262Jessica Miguel De La Cruz	495Ignacio Torres García 81, 152, 454, 573Iván de Jesús Pale Ezquivel	156Jessica Susana Sustaita Barreto	541Iker Castanares González	568Iván Díaz Pacheco........... 172, 318, 319Jesús Abad Argumedo Espinosa	357Ileana Nataly Celaya Cordero	182Iván Ernesto Roldán Aragón	195Jesús Adrián Bojórquez Valdez	169Iliana Pérez Espinosa	507Iván Nicolás Pérez Osorio	596Jesús Bastida Alamillo	243Ilse Jaqueline Ortega Martínez	44Ivette Alicia Chamorro Florescano	61Jesús Campos Serrano.... 236, 556, 561Ilse Lizet Solis Gabriel	52Ivonne Barrera Jiménez	439Jesús Eduardo Sáenz Ceja	190Ilse Lizet Solís Gabriel	444Ivonne Martínez González	45Jesús Elías García López	315
+Héctor Javier Villegas Moreno	336
+Inara Leal Roberta	25
+J. Jesús García Magaña .......... 138, 384
+Héctor Jiménez Hernández	444
+Inari Sosa Aranda	350
+J. Luis Hernández-Stefanoni	368
+Héctor Leonardo Martínez Torres	321
+Indira Figueroa Torres	241
+J.A. Cervantes Pasqualli	11
+Héctor Octavio Godínez Álvarez .... 481,
+Indira Reta Heredia	426
+Jacinto Aurelio Che Herrera	576
+562
+Ingreet Juliet Cano Castellanos	305
+Jacinto Treviño Carreón........... 473, 543
+Héctor S. Luna Zendejas	514
+Ingrid García Gómez	440
+Jade Melissa Pereyda González	461
+Héctor Takeshi Arita Watanabe180, 563
+Ingrid Hernández Monterde	364
+Jaguri Uriel Martínez Lizcano	490
+Heidi Patricia Medorio García	166
+Irais Avila Eulogio	338
+Jaime Garatuza Payán............. 534, 575
+Helia Reyna Osuna Fernandez	568
+Irama Núñez Tancredi	594
+Jaime Garatuza-Payán .............. 50, 254
+Hellen Martínez Roldán	338
+Irene Ávila Díaz	174
+Jaime Luevano Esparza	283
+Hermes Lustre Sánchez .............. 43, 90
+Irene Ayala Arboleda	386
+Jaime Martínez Castillo	116
+Hermilo Sánchez Sánchez ..... 324, 428,
+Irene de los A. Barriga Sosa	500
+Jaime Sánchez Salas....... 361, 569, 570
+429
+Irene Gélvez Zúñiga 197, 234, 401, 443,
+Janelle Sacnité Chávez Barrera	169
+Hernan Celaya Michel ............. 248, 443
+484
+Janette Iliana Parra Villa .......... 177, 280
+Hernán Muñoz	307
+Irene Pisanty Baruch 297, 327, 335, 351
+Janette Jifkins Landero	306
+Hernando A. Rodríguez Correa	35
+Irene Sánchez Gallén .............. 125, 412
+Janneth Alejandra Martínez Vargas. 414
+Hernani Alves Almeida	401
+Irene Zapata Morán	333
+Jaqueline Campos Jiménez..... 209, 210
+Hibraim Adan Pérez Mendoza	259
+Ireri Suazo Ortuño..... 79, 244, 303, 317,
+Javier Alcocer Durand	38
+Hibraim Adán Pérez Mendoza	341
+572
+Javier Alvarado Díaz. 79, 144, 303, 317,
+Hilda Díaz López	572
+Iriana Zuria Jordan........... 267, 449, 508
+414, 482, 572
+Hilda Julieta Arreola Nava ......... 73, 243
+Irina Llamas Torres	284
+Javier Amaro Castañeda Bautista... 312,
+Hilda Marcela Pérez Escobedo	594
+Iris Adriana Hernández López	344
+490, 491
+Hilda María Díaz López	527
+Iris Neri Flores............................ 23, 314
+Javier Bello Pineda	284
+Horacio Jesúa De la Cueva Salcedo
+Irma Alejandra Ruiz Guerrero	488
+Javier Caraveo Patiño	559
+........................................... 439, 464
+Irma Reyes Jaramillo ............... 311, 363
+Javier Fortanelli Martínez......... 415, 483
+Horacio Paz Hernández.... 46, 109, 174,
+Irving Saenz Pedroza	353
+Javier Gómez Crosvy	314
+252, 420, 467
+Irving Uriel Hernández Gómez	385
+Javier Hernández Guzmán	583
+Horacio Salomón Ballina Gómez.... 108,
+Isaac Games Badouin................ 50, 254
+Javier Laborde Dovalí .............. 149, 328
+148, 251, 461, 501, 502
+Isac Mella Méndez	267
+Javier López Upton	121
+Hortensia Carrillo Ruiz ..... 352, 381, 418
+Isadora Torres Guerrero	488
+Javier Manuel Flores Moreno	93
+Hugo Alberto Castillo Gómez	415
+Isai Olalde Estrada	309
+Javier Medina Sánchez	342
+Hugo Alfredo Medina Medrano	226
+Isaías Hazarmabeth Salgado Ugarte115
+Javier Mirón Rivera .......... 173, 306, 502
+Hugo López Martínez	284
+Isela Zermeño Hernández	199
+Javier Ponce Saavedra	227
+Hugo López Rosas .......... 256, 533, 556
+Isis Daniela Salazar Gómez	380
+Javier Tolome Romero	551
+Hugo Magdaleno Ramírez Tobías... 468
+Isis Johana Montoya Valdivias	237
+Javier Villegas Moreno............. 188, 580
+Hugo Ruiz Piña	382
+Ismael Mariño Tapia	8
+Jazmín Ayizde Guerrero Delgado	537
+Huitziméngari Campos García 200, 395,
+Ismael Pat Aké	227
+Jazmín Enríquez Roa	78
+396
+Isolda Luna Vega	144
+Jazmín Martínez Mijares .......... 123, 266
+Humberto González Rodríguez ...... 345,
+Israel Cantú Silva..................... 425, 452
+Jazmín Sánchez Rosales	351
+402, 425, 452, 562
+Israel Cantú-Silva	386
+Jazmín Solís Carpio	76
+Humberto González-Rodríguez	386
+Israel Carrillo Angeles	503
+Jeff Christofher González Díaz	345
+Humberto Peraza Villarreal	46
+Israel Cruz Jiménez	273
+Jennie Melhado Carboney	492
+Humberto Reyes Hernández .. 174, 228,
+Israel Guerrero Cárdenas	517
+Jessica Berenice López Caro	552
+483
+Itzel Carolina Patricio López	467
+Jéssica C. Faria Falcão	32
+
+Itzel Lemus Domínguez	159
+Jessica de Jesús Sosa Quintero	481
+I
+Itzel Real Benítez	377
+Jessica González Paredes	53
+Ian MacGregor Fors................. 265, 450
+Itzel Zigala Regalado	554
+Jessica Hernández Jerónimo	63
+Ibiza Martínez Serrano	209
+Iván Camargo	65
+Jessica Juan Espinosa............. 180, 488
+Ignacio Castellanos ................. 449, 508
+Iván Castellanos Vargas .. 101, 176, 355
+Jessica Juárez Sandoval	331
+Ignacio Castellanos Sturemark 449, 508
+Ivan Dario Camargo Rodríguez	260
+Jessica Magdalena Reyes Tovar	403
+Ignacio Maldonado-Mendoza	312
+Iván David Méndez González	262
+Jessica Miguel De La Cruz	495
+Ignacio Torres García 81, 152, 454, 573
+Iván de Jesús Pale Ezquivel	156
+Jessica Susana Sustaita Barreto	541
+Iker Castanares González	568
+Iván Díaz Pacheco........... 172, 318, 319
+Jesús Abad Argumedo Espinosa	357
+Ileana Nataly Celaya Cordero	182
+Iván Ernesto Roldán Aragón	195
+Jesús Adrián Bojórquez Valdez	169
+Iliana Pérez Espinosa	507
+Iván Nicolás Pérez Osorio	596
+Jesús Bastida Alamillo	243
+Ilse Jaqueline Ortega Martínez	44
+Ivette Alicia Chamorro Florescano	61
+Jesús Campos Serrano.... 236, 556, 561
+Ilse Lizet Solis Gabriel	52
+Ivonne Barrera Jiménez	439
+Jesús Eduardo Sáenz Ceja	190
+Ilse Lizet Solís Gabriel	444
+Ivonne Martínez González	45
+Jesús Elías García López	315
+
+
 Ilse Torres Vázquez	425
 Ilyas Siddique .......................... 121, 134
 Imelda Martínez Morales	59
@@ -60534,7 +61315,193 @@ Congreso
 Mexicano
 
 
-Jesús García Urbina	275Jorge Sáenz Mata............ 361, 569, 570José Luis Aguilar López	461Jesús Gastón Gutiérrez Cedillo	90Jorge Santamaria Fernandez	186José Luis Andrade Torres140, 186, 325,Jesús Llanderal Mendoza	16Jorge Soberon Mainero	85397, 398, 427Jesús Miguel Santiago Montoya	459Jorge Tellez López	423José Luis Aragón Gastélum	41Jesús Rafael Hernández Montero ... 328Jorge Urbán Ramírez	279José Luis Caballero Camacho	226Jesús Rubén Torres García..... 208, 410José Abraham Villa Melchor	164José Luis Contreras Ávila	263Jimena Meneses Plascencia	114José Adán Caballero Vázquez	482José Luis Flores Flores ...... 42, 330, 415Joab Raziel Quintero Ruiz	483José Alberto Gallardo Cruz..... 125, 270,José Luis Hernández Stefanoni238, 353João Vitor Souza Messeder	401590José Luis Jaramillo Alba	240Joaquín Arroyo Cabrales	172José Alberto Morón Cruz	374José Luis Navarrete Heredia.... 246, 416Joaquin Sosa Ramirez............. 357, 436José Alberto Ocaña Luna 148, 154, 463José Luis Ramírez Pacheco	45Joel David Flores Rivas ... 111, 329, 483José Alberto Ramos Zapata ... 136, 180,José Luis Simá Gómez .... 397, 398, 427Joel Flores Rivas ...... 41, 174, 361, 363,220, 485José Luis Villaseñor Ríos	564376, 395, 426, 438, 465, 466, 475,José Alberto Rodríguez Avalos	437José M. Rey Benayas	134535, 569, 570, 574José Alejandro Axatyacatl PrietoJosé Manuel Castro Pérez	355Joel Sáenz Méndez ................. 230, 316Jiménez	214José Manuel Fabián Regalado 459, 575Jonas Morales Linares	416José Alejandro Selvera Mancha	574José Manuel Figueroa Mah Eng	8Jonathan Sechaly Pérez Flores	203José Alejandro Zavala Hurtado....... 154,José Manuel Sevenello Montagner. 151,Jordan Golubov Figueroa ... 43, 71, 154,236, 413, 466, 555, 556, 561331209, 437, 504, 509, 571José Alfonso Ramírez Valdez	180José Manuel Vilchis Vilchis	377Jorge A. Contreras Garduño... 113, 114,José Alfredo Hernández Díaz	11José Miguel Contreras Sánchez 35, 288161, 211, 250, 532José Antolín Aké Castillo	9José Omar Moreno Flores	365Jorge Aberto Flores Cano	541José Antonio Aranda Pineda	407José Raúl Romo León................ 94, 230Jorge Adrián Ortiz Moreno	87José Antonio De la Cruz HernandezJosé Refugio Lomelí Flores	222Jorge Adrián Rosales Casián	232........................................... 456, 516José Ricardo Gonzalo Wong	531Jorge Alberto León Escamilla	255José Antonio De la Cruz Hernández 527José Rodrigo Serrano García	258Jorge Alberto Neyra Jáuregui	298José Antonio García Perez	85José Rubén García Alfaro	129Jorge Alberto Pérez Fernández	540Jose Antonio Martínez Pérez	366José Sarukhán Kermez	56Jorge Alejandro Marroquín Páramo. 303José Antonio Vázquez García . 116, 301José Tulio Arredondo Moreno..... 6, 120,Jorge Antonio García Victoriano	319José Arnulfo Blanco García .... 184, 187,168, 204, 211, 330Jorge Antonio Guzmán Segura	279510José Yader Sageth Ruiz Cruz	524Jorge Antonio López Griego	522José Arturo Casasola González	353Josefina Calzontzi Marín.......... 454, 457Jorge Armando Sosa González	277José Arturo De Nova Vázquez.. 14, 150,Josefina Ramos Frías	595Jorge Arturo Lobo Segura ........... 4, 243174, 483Joseline Benítez López ............ 534, 536Jorge Arturo Martínez Villegas	46José Blancas.............................. 81, 307Josep María Espelta Morral	253Jorge Augusto Navarro Alberto	489José Carmen García Flores	90Josue Delgado Balbuena	6Jorge Canales Lazcano	161José Cruz De León	369Juan Alberto Hernández Cortés	152Jorge Ciros Pérez	258José Cruz Gómez Llamas	537Juan Antonio Pérez Sato	523Jorge Cortés Flores	126José Daniel Núñez Martínez	541Juan Arroyo.............. 208, 410, 479, 493Jorge E. Valenzuela González 295, 416,José Eduardo Delgadillo Lazos	400Juan Arroyo Marín	410485, 551José Fernando Villaseñor Gómez	448Juan Carlos Alvarado Avilés	429Jorge Eduardo Campos Contreras . 165,José Flavio Márquez Torres .... 444, 511Juan Carlos Álvarez Yepiz	49262, 539José Francisco Dzul Cauich .... 548, 549Juan Carlos Flores Vázquez	201Jorge Enrique Ramírez Albores142, 446José G. García Franco...... 37, 114, 209,Juan Carlos González Cortés	579Jorge Enrique Rodríguez Velázquez454362, 394, 416, 436, 440Juan Carlos Hernández Barrios ... 33, 80Jorge Ernesto Valenzuela González . 84José G. Marmolejo Monsivaís	145Juan Carlos Jiménez Abarca	307Jorge Éufrates Morales Mávil	78José García Pérez	415Juan Carlos López Acosta ....... 131, 380Jorge Galindo	436José Gerardo Alejandro CeballosJuan Carlos Méndez Álvarez	520Jorge Guillermo Sánchez Zazueta . 568,Corona ............................... 414, 482Juan Carlos Montero Castro	561597José Gerardo González Esquivel	171Juan Carlos Páez Reyes	494Jorge Herrera Franco	184José González Carcacía	221Juan Carlos Serio Silva	13Jorge Humberto Vega Rivera	310José Guadalupe Chan Quijano	185Juan de Dios Valdez Leal230, 281, 316,Jorge Leandro Leirana Alcocer 421, 489José Guadalupe Martínez Avalos	537356, 490Jorge Lemus Juárez	394José Guadalupe Martínez HernándezJuan de Dios Valdez-Leal	572Jorge López Portillo Guzmán ..... 9, 110,...................................................  181Juan Enrique Fornoni Agnelli.. 160, 367,170, 195, 399José Guadalupe Palacios Vargas... 470,411, 413, 547Jorge Luis Hernández Hernández ... 118487Juan F. Marínez Osuna	5Jorge Macedo	31Jose Isabel Juan Pérez	90Juan Felipe Charre Medellín	131Jorge Molina Torres ................. 119, 254José Jaime Zúñiga Vega . 159, 333, 335Juan Fernando Escobar Ibáñez	450Jorge Navarro Alberto	421José Juan Basurto Godoy	105Juan Fornoni ................................ 65, 67Jorge Orendain Méndez .......... 556, 561José Llano Sotelo	249Juan Francisco Jiménez Bremont	440Jorge Palomo Kumul	249José Luciano Sabás Rosales	566
+Jesús García Urbina	275
+Jorge Sáenz Mata............ 361, 569, 570
+José Luis Aguilar López	461
+Jesús Gastón Gutiérrez Cedillo	90
+Jorge Santamaria Fernandez	186
+José Luis Andrade Torres140, 186, 325,
+Jesús Llanderal Mendoza	16
+Jorge Soberon Mainero	85
+397, 398, 427
+Jesús Miguel Santiago Montoya	459
+Jorge Tellez López	423
+José Luis Aragón Gastélum	41
+Jesús Rafael Hernández Montero ... 328
+Jorge Urbán Ramírez	279
+José Luis Caballero Camacho	226
+Jesús Rubén Torres García..... 208, 410
+José Abraham Villa Melchor	164
+José Luis Contreras Ávila	263
+Jimena Meneses Plascencia	114
+José Adán Caballero Vázquez	482
+José Luis Flores Flores ...... 42, 330, 415
+Joab Raziel Quintero Ruiz	483
+José Alberto Gallardo Cruz..... 125, 270,
+José Luis Hernández Stefanoni238, 353
+João Vitor Souza Messeder	401
+590
+José Luis Jaramillo Alba	240
+Joaquín Arroyo Cabrales	172
+José Alberto Morón Cruz	374
+José Luis Navarrete Heredia.... 246, 416
+Joaquin Sosa Ramirez............. 357, 436
+José Alberto Ocaña Luna 148, 154, 463
+José Luis Ramírez Pacheco	45
+Joel David Flores Rivas ... 111, 329, 483
+José Alberto Ramos Zapata ... 136, 180,
+José Luis Simá Gómez .... 397, 398, 427
+Joel Flores Rivas ...... 41, 174, 361, 363,
+220, 485
+José Luis Villaseñor Ríos	564
+376, 395, 426, 438, 465, 466, 475,
+José Alberto Rodríguez Avalos	437
+José M. Rey Benayas	134
+535, 569, 570, 574
+José Alejandro Axatyacatl Prieto
+José Manuel Castro Pérez	355
+Joel Sáenz Méndez ................. 230, 316
+Jiménez	214
+José Manuel Fabián Regalado 459, 575
+Jonas Morales Linares	416
+José Alejandro Selvera Mancha	574
+José Manuel Figueroa Mah Eng	8
+Jonathan Sechaly Pérez Flores	203
+José Alejandro Zavala Hurtado....... 154,
+José Manuel Sevenello Montagner. 151,
+Jordan Golubov Figueroa ... 43, 71, 154,
+236, 413, 466, 555, 556, 561
+331
+209, 437, 504, 509, 571
+José Alfonso Ramírez Valdez	180
+José Manuel Vilchis Vilchis	377
+Jorge A. Contreras Garduño... 113, 114,
+José Alfredo Hernández Díaz	11
+José Miguel Contreras Sánchez 35, 288
+161, 211, 250, 532
+José Antolín Aké Castillo	9
+José Omar Moreno Flores	365
+Jorge Aberto Flores Cano	541
+José Antonio Aranda Pineda	407
+José Raúl Romo León................ 94, 230
+Jorge Adrián Ortiz Moreno	87
+José Antonio De la Cruz Hernandez
+José Refugio Lomelí Flores	222
+Jorge Adrián Rosales Casián	232
+........................................... 456, 516
+José Ricardo Gonzalo Wong	531
+Jorge Alberto León Escamilla	255
+José Antonio De la Cruz Hernández 527
+José Rodrigo Serrano García	258
+Jorge Alberto Neyra Jáuregui	298
+José Antonio García Perez	85
+José Rubén García Alfaro	129
+Jorge Alberto Pérez Fernández	540
+Jose Antonio Martínez Pérez	366
+José Sarukhán Kermez	56
+Jorge Alejandro Marroquín Páramo. 303
+José Antonio Vázquez García . 116, 301
+José Tulio Arredondo Moreno..... 6, 120,
+Jorge Antonio García Victoriano	319
+José Arnulfo Blanco García .... 184, 187,
+168, 204, 211, 330
+Jorge Antonio Guzmán Segura	279
+510
+José Yader Sageth Ruiz Cruz	524
+Jorge Antonio López Griego	522
+José Arturo Casasola González	353
+Josefina Calzontzi Marín.......... 454, 457
+Jorge Armando Sosa González	277
+José Arturo De Nova Vázquez.. 14, 150,
+Josefina Ramos Frías	595
+Jorge Arturo Lobo Segura ........... 4, 243
+174, 483
+Joseline Benítez López ............ 534, 536
+Jorge Arturo Martínez Villegas	46
+José Blancas.............................. 81, 307
+Josep María Espelta Morral	253
+Jorge Augusto Navarro Alberto	489
+José Carmen García Flores	90
+Josue Delgado Balbuena	6
+Jorge Canales Lazcano	161
+José Cruz De León	369
+Juan Alberto Hernández Cortés	152
+Jorge Ciros Pérez	258
+José Cruz Gómez Llamas	537
+Juan Antonio Pérez Sato	523
+Jorge Cortés Flores	126
+José Daniel Núñez Martínez	541
+Juan Arroyo.............. 208, 410, 479, 493
+Jorge E. Valenzuela González 295, 416,
+José Eduardo Delgadillo Lazos	400
+Juan Arroyo Marín	410
+485, 551
+José Fernando Villaseñor Gómez	448
+Juan Carlos Alvarado Avilés	429
+Jorge Eduardo Campos Contreras . 165,
+José Flavio Márquez Torres .... 444, 511
+Juan Carlos Álvarez Yepiz	49
+262, 539
+José Francisco Dzul Cauich .... 548, 549
+Juan Carlos Flores Vázquez	201
+Jorge Enrique Ramírez Albores142, 446
+José G. García Franco...... 37, 114, 209,
+Juan Carlos González Cortés	579
+Jorge Enrique Rodríguez Velázquez454
+362, 394, 416, 436, 440
+Juan Carlos Hernández Barrios ... 33, 80
+Jorge Ernesto Valenzuela González . 84
+José G. Marmolejo Monsivaís	145
+Juan Carlos Jiménez Abarca	307
+Jorge Éufrates Morales Mávil	78
+José García Pérez	415
+Juan Carlos López Acosta ....... 131, 380
+Jorge Galindo	436
+José Gerardo Alejandro Ceballos
+Juan Carlos Méndez Álvarez	520
+Jorge Guillermo Sánchez Zazueta . 568,
+Corona ............................... 414, 482
+Juan Carlos Montero Castro	561
+597
+José Gerardo González Esquivel	171
+Juan Carlos Páez Reyes	494
+Jorge Herrera Franco	184
+José González Carcacía	221
+Juan Carlos Serio Silva	13
+Jorge Humberto Vega Rivera	310
+José Guadalupe Chan Quijano	185
+Juan de Dios Valdez Leal230, 281, 316,
+Jorge Leandro Leirana Alcocer 421, 489
+José Guadalupe Martínez Avalos	537
+356, 490
+Jorge Lemus Juárez	394
+José Guadalupe Martínez Hernández
+Juan de Dios Valdez-Leal	572
+Jorge López Portillo Guzmán ..... 9, 110,
+...................................................  181
+Juan Enrique Fornoni Agnelli.. 160, 367,
+170, 195, 399
+José Guadalupe Palacios Vargas... 470,
+411, 413, 547
+Jorge Luis Hernández Hernández ... 118
+487
+Juan F. Marínez Osuna	5
+Jorge Macedo	31
+Jose Isabel Juan Pérez	90
+Juan Felipe Charre Medellín	131
+Jorge Molina Torres ................. 119, 254
+José Jaime Zúñiga Vega . 159, 333, 335
+Juan Fernando Escobar Ibáñez	450
+Jorge Navarro Alberto	421
+José Juan Basurto Godoy	105
+Juan Fornoni ................................ 65, 67
+Jorge Orendain Méndez .......... 556, 561
+José Llano Sotelo	249
+Juan Francisco Jiménez Bremont	440
+Jorge Palomo Kumul	249
+José Luciano Sabás Rosales	566
+
+
 Congreso
 Mexicano
 
@@ -60887,7 +61854,194 @@ Congreso
 Mexicano
 
 
-María Guadalupe Ramírez Ortiz	201Mario Salvador Castro Zenil	425Mayra Flores Tolentino	174María Isabel Briseño Sánchez	471Mario Valerio Velasco García	121Mayra Gavito	121María Isabel Oble Delgadillo	392Marisa Díaz Rodríguez	566Mayra Magaña	307María Isabel Rodríguez Mejía	106Marisela Pando Moreno........... 145, 426Mayra Martínez Reynoso	318María José Campos Navarrete.... 30, 37Marisela Pineda Cortés... 147, 222, 233,Melany Aguilar López	595María José Góngora Galera .... 289, 355462, 465Merari Ferrer Cervantes	103María José Pérez Crespo	153Marisol Alejandra Ortiz Bibian	569Mercedes Rivera León	358Maria Loraine Matias Palafox .... 43, 333Marisol Arce Acosta	591Merly Iveth Magaña Rodríguez	391María Luisa Bárcenas Argüello	359Marisol Castro Torreblanca	360Michelle Ramos Robles	297María Luisa Hernández Hernández. 121Marisol De La Mora	65Miguel A. Murcia Rodriguez	135María Luisa Herrera Arroyo	378Marisol Viveros Avalos	593Miguel A. Pérez Pérez	454María Luisa Jiménez Jiménez	62Maritza Gutiérrez Gutiérrez	145Miguel A. Rivera................. 50, 254, 536María Luisa Martínez Vázquez	224Maritza Sandoval Aguilar	50Miguel Alberto Magaña Alejandro ... 141,María Magdalena Ordoñez ReséndizMarlín Pérez Suárez	204309, 359, 391, 392...................................................   491Marta Astier Calderón	452Miguel Angel Armella Villalpando...... 73,María Magdalena Ramírez MartínezMartha Adriana Núñez Cruz	522372................................... 234, 475, 476Martha Anahí Güizado Rodríguez .. 281,Miguel Angel Balderas Plata	90María Magdalena Vázquez González334Miguel Angel Barrera Silva	443...................................................   487Martha Angélica Gutiérrez Aguirre	69Miguel Ángel Cruz Nieto ...... 22, 23, 453Maria Raimunda Araújo Santana	91Martha Beatriz Rendón López . 459, 575Miguel Angel García Martínez... 84, 295,María Rosete Enríquez............ 468, 530Martha Elena Lopezaraiza Mikel 35, 227551María Sandra Arias Durán	402Martha Elena Méndez González	103Miguel Ángel Gómez Ramírez	294María Socorro Orozco Almanza	455Martha G. López Guerrero	53Miguel Angel Jesus Salas Quezada 581Maria Soledad Ruiz Mora	327Martha Isabel Luna Gómez	354Miguel Angel López Jimenez	576María Teresa Morquecho Ávila	288Martha Lopezaraiza-Mikel	34Miguel Ángel Munguía Rosas ... 14, 109,María Teresa Valverde Valdés . 42, 102,Martha Lucía Baena Hurtado	122441362, 471Martha Lucia Caderón Espinosa	212Miguel Ángel Muñiz Castro ...... 116, 301María Teresita de Jesús CovarrubiasMartha M. Zarco González	324Miguel Ángel Pérez Farrera ..... 362, 417Camarillo	113Martha Patricia Ochoa Reyes	135Miguel Ángel Romero Sosa	105María Yolanda Bizuet Flores	558Martha Pilar Ibarra López ........ 234, 475Miguel Ángel Sánchez Rodríguez	23Mariana Álvarez Añorve . 221, 222, 232,Martha Ramírez Martínez	499Miguel Ángel Vargas Tellez	23235, 317, 462, 465, 488Martha Raquel Trujillo Veléz	468Miguel Angel Vega Ortega	384Mariana Bravo Mendoza	170Martha Regina Núñez Sandoval	155Miguel Antonio Cervantes Reyes	244Mariana Cano Rodríguez	542Martha Susana Zuloaga Aguilar ..... 234,Miguel Araujo Bastos	86Mariana Chávez Oropeza........ 374, 494325, 475Miguel B. Nájera Rincón .......... 255, 452Mariana Chávez Pesqueira	2Martín Abraham Reyes Lara	429Miguel Castillo	18Mariana del Rocio Contreras Quiroz 426Martín Escoto Rodríguez ......... 158, 541Miguel E. Equihua Zamora.... 19, 74, 75,Mariana Hernández Apolinar	362Martín Esqueda Valle	249139, 195Mariana Rodríguez Sánchez	297Martín Hesajim De Santiago HernándezMiguel Luna Luna	168Mariana Rojas Aréchiga	538...................................................  207Miguel Martínez Ramos .. 15, 33, 56, 57,Mariana Vallejo Ramos.............. 81, 228Martín Mata Rosas	41680, 134, 198, 199, 231, 454, 493,Maribel Badillo Alemán	366Martín Ortiz Morales .......... 73, 122, 326531, 577Maribel Nava Mendoza	58Martín Serrano Meneses	207Miguel Mateo Sabido Itzá	337Maribel Ortiz Domínguez	61Marysol Trujano Ortega ............. 63, 183Miguel Menéndez Acuña.......... 490, 491Maricarmen Yolanda NecoecheaMasuly Guadalupe Vega Puga	575Miguel Santoyo Martínez	515Zamora	232Matheus Lopes Souza	197Miguel Vásquez Bolaños	497Maricela López Mejía	175Matilde Pérez Rincón	129Mireya Pérez Martínez	318Maricela Martínez Maldonado . 545, 548Matilde Rincón Pérez......... 23, 124, 314Miriam Alejandra Cueto Mares. 225, 284Maried Ochoa Zavala	435Mauricio Arturo Juárez Fragoso	131Miriam Hernández Hernández	577Mariela Gazca Castro	300Mauricio Berumen	528Miriam Monserrat Ferrer Ortega ..... 264,Mariela Gómez Romero........... 188, 580Mauricio Cortés Hernández	23505Marielos Peña Claros	75Mauricio Larios Ulloa 122, 243, 326, 564Miriam Rebeca Alvarez Tostado ReyesMarina Barajas Arroyo	581Mauricio Quesada Avendaño...... 34, 35,...................................................  133Marina Rivero Hernández	216119, 182, 194, 197, 207, 219, 222,Miriam Reyes Ortiz	191Marina Sánchez Ramírez 148, 154, 463227, 243, 280, 290, 408, 480, 547Miriam Serrano Muñoz	222Marines De la Peña Domene	511Mauricio Ramírez Rodríguez	591Mirna Ethel Canul Montañez	239Mario Antonio Guevara Santamaria 139Mauricio Sánchez Martínez	594Mirna Valdez Hernández.. 205, 249, 463Mario Arturo Ortíz Pérez	8Maya Rocha Ortega	311Moisés Méndez Toribio	199Mario E. Favila Castillo .............. 61, 311Mayra Edith Zamora Espinoza 222, 235,Moisés Montes Olivares	565Mario E. Suárez Mota	564488Moisés Santillán Zerón	299Mario González Espinosa	417Mayra Elena Gavito Pardo 55, 108, 170,Mónica Elizabeth Riojas López178, 179,Mario Oscar Buenfil Rodriguez	584180, 494, 557214, 288, 367, 565
+María Guadalupe Ramírez Ortiz	201
+Mario Salvador Castro Zenil	425
+Mayra Flores Tolentino	174
+María Isabel Briseño Sánchez	471
+Mario Valerio Velasco García	121
+Mayra Gavito	121
+María Isabel Oble Delgadillo	392
+Marisa Díaz Rodríguez	566
+Mayra Magaña	307
+María Isabel Rodríguez Mejía	106
+Marisela Pando Moreno........... 145, 426
+Mayra Martínez Reynoso	318
+María José Campos Navarrete.... 30, 37
+Marisela Pineda Cortés... 147, 222, 233,
+Melany Aguilar López	595
+María José Góngora Galera .... 289, 355
+462, 465
+Merari Ferrer Cervantes	103
+María José Pérez Crespo	153
+Marisol Alejandra Ortiz Bibian	569
+Mercedes Rivera León	358
+Maria Loraine Matias Palafox .... 43, 333
+Marisol Arce Acosta	591
+Merly Iveth Magaña Rodríguez	391
+María Luisa Bárcenas Argüello	359
+Marisol Castro Torreblanca	360
+Michelle Ramos Robles	297
+María Luisa Hernández Hernández. 121
+Marisol De La Mora	65
+Miguel A. Murcia Rodriguez	135
+María Luisa Herrera Arroyo	378
+Marisol Viveros Avalos	593
+Miguel A. Pérez Pérez	454
+María Luisa Jiménez Jiménez	62
+Maritza Gutiérrez Gutiérrez	145
+Miguel A. Rivera................. 50, 254, 536
+María Luisa Martínez Vázquez	224
+Maritza Sandoval Aguilar	50
+Miguel Alberto Magaña Alejandro ... 141,
+María Magdalena Ordoñez Reséndiz
+Marlín Pérez Suárez	204
+309, 359, 391, 392
+...................................................   491
+Marta Astier Calderón	452
+Miguel Angel Armella Villalpando...... 73,
+María Magdalena Ramírez Martínez
+Martha Adriana Núñez Cruz	522
+372
+................................... 234, 475, 476
+Martha Anahí Güizado Rodríguez .. 281,
+Miguel Angel Balderas Plata	90
+María Magdalena Vázquez González
+334
+Miguel Angel Barrera Silva	443
+...................................................   487
+Martha Angélica Gutiérrez Aguirre	69
+Miguel Ángel Cruz Nieto ...... 22, 23, 453
+Maria Raimunda Araújo Santana	91
+Martha Beatriz Rendón López . 459, 575
+Miguel Angel García Martínez... 84, 295,
+María Rosete Enríquez............ 468, 530
+Martha Elena Lopezaraiza Mikel 35, 227
+551
+María Sandra Arias Durán	402
+Martha Elena Méndez González	103
+Miguel Ángel Gómez Ramírez	294
+María Socorro Orozco Almanza	455
+Martha G. López Guerrero	53
+Miguel Angel Jesus Salas Quezada 581
+Maria Soledad Ruiz Mora	327
+Martha Isabel Luna Gómez	354
+Miguel Angel López Jimenez	576
+María Teresa Morquecho Ávila	288
+Martha Lopezaraiza-Mikel	34
+Miguel Ángel Munguía Rosas ... 14, 109,
+María Teresa Valverde Valdés . 42, 102,
+Martha Lucía Baena Hurtado	122
+441
+362, 471
+Martha Lucia Caderón Espinosa	212
+Miguel Ángel Muñiz Castro ...... 116, 301
+María Teresita de Jesús Covarrubias
+Martha M. Zarco González	324
+Miguel Ángel Pérez Farrera ..... 362, 417
+Camarillo	113
+Martha Patricia Ochoa Reyes	135
+Miguel Ángel Romero Sosa	105
+María Yolanda Bizuet Flores	558
+Martha Pilar Ibarra López ........ 234, 475
+Miguel Ángel Sánchez Rodríguez	23
+Mariana Álvarez Añorve . 221, 222, 232,
+Martha Ramírez Martínez	499
+Miguel Ángel Vargas Tellez	23
+235, 317, 462, 465, 488
+Martha Raquel Trujillo Veléz	468
+Miguel Angel Vega Ortega	384
+Mariana Bravo Mendoza	170
+Martha Regina Núñez Sandoval	155
+Miguel Antonio Cervantes Reyes	244
+Mariana Cano Rodríguez	542
+Martha Susana Zuloaga Aguilar ..... 234,
+Miguel Araujo Bastos	86
+Mariana Chávez Oropeza........ 374, 494
+325, 475
+Miguel B. Nájera Rincón .......... 255, 452
+Mariana Chávez Pesqueira	2
+Martín Abraham Reyes Lara	429
+Miguel Castillo	18
+Mariana del Rocio Contreras Quiroz 426
+Martín Escoto Rodríguez ......... 158, 541
+Miguel E. Equihua Zamora.... 19, 74, 75,
+Mariana Hernández Apolinar	362
+Martín Esqueda Valle	249
+139, 195
+Mariana Rodríguez Sánchez	297
+Martín Hesajim De Santiago Hernández
+Miguel Luna Luna	168
+Mariana Rojas Aréchiga	538
+...................................................  207
+Miguel Martínez Ramos .. 15, 33, 56, 57,
+Mariana Vallejo Ramos.............. 81, 228
+Martín Mata Rosas	416
+80, 134, 198, 199, 231, 454, 493,
+Maribel Badillo Alemán	366
+Martín Ortiz Morales .......... 73, 122, 326
+531, 577
+Maribel Nava Mendoza	58
+Martín Serrano Meneses	207
+Miguel Mateo Sabido Itzá	337
+Maribel Ortiz Domínguez	61
+Marysol Trujano Ortega ............. 63, 183
+Miguel Menéndez Acuña.......... 490, 491
+Maricarmen Yolanda Necoechea
+Masuly Guadalupe Vega Puga	575
+Miguel Santoyo Martínez	515
+Zamora	232
+Matheus Lopes Souza	197
+Miguel Vásquez Bolaños	497
+Maricela López Mejía	175
+Matilde Pérez Rincón	129
+Mireya Pérez Martínez	318
+Maricela Martínez Maldonado . 545, 548
+Matilde Rincón Pérez......... 23, 124, 314
+Miriam Alejandra Cueto Mares. 225, 284
+Maried Ochoa Zavala	435
+Mauricio Arturo Juárez Fragoso	131
+Miriam Hernández Hernández	577
+Mariela Gazca Castro	300
+Mauricio Berumen	528
+Miriam Monserrat Ferrer Ortega ..... 264,
+Mariela Gómez Romero........... 188, 580
+Mauricio Cortés Hernández	23
+505
+Marielos Peña Claros	75
+Mauricio Larios Ulloa 122, 243, 326, 564
+Miriam Rebeca Alvarez Tostado Reyes
+Marina Barajas Arroyo	581
+Mauricio Quesada Avendaño...... 34, 35,
+...................................................  133
+Marina Rivero Hernández	216
+119, 182, 194, 197, 207, 219, 222,
+Miriam Reyes Ortiz	191
+Marina Sánchez Ramírez 148, 154, 463
+227, 243, 280, 290, 408, 480, 547
+Miriam Serrano Muñoz	222
+Marines De la Peña Domene	511
+Mauricio Ramírez Rodríguez	591
+Mirna Ethel Canul Montañez	239
+Mario Antonio Guevara Santamaria 139
+Mauricio Sánchez Martínez	594
+Mirna Valdez Hernández.. 205, 249, 463
+Mario Arturo Ortíz Pérez	8
+Maya Rocha Ortega	311
+Moisés Méndez Toribio	199
+Mario E. Favila Castillo .............. 61, 311
+Mayra Edith Zamora Espinoza 222, 235,
+Moisés Montes Olivares	565
+Mario E. Suárez Mota	564
+488
+Moisés Santillán Zerón	299
+Mario González Espinosa	417
+Mayra Elena Gavito Pardo 55, 108, 170,
+Mónica Elizabeth Riojas López178, 179,
+Mario Oscar Buenfil Rodriguez	584
+180, 494, 557
+214, 288, 367, 565
+
+
 Congreso
 Mexicano
 
