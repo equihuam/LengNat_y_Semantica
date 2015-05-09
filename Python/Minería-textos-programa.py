@@ -13,6 +13,7 @@ email: equihuam@gamil.com
 import nltk
 import re
 import os # biblioteca de acceso a sistema operativo
+import csv
 
 # Abrir el archivo y leerlo en "texto"
 # Los archivos de datos están en:
@@ -40,13 +41,14 @@ carteles = texto[33150:60312]
 
 # Limpieza y segmentación de los resumenes título, texto, palClv e ID
 # Empieza por eliminar marcas de formato y espacios ed relleno
-simposios = list((linea.strip("0123456789* \t\n") for linea in simposios))
-orales = list((linea.strip("0123456789* \t\n") for linea in orales))
-carteles = list((linea.strip("0123456789* \t\n") for linea in carteles))
+simposios = list((linea.lstrip("[0123456789* \t\n") for linea in simposios))
+orales = list((linea.lstrip("^0123456789* \t\n") for linea in orales))
+carteles = list((linea.lstrip("^0123456789* \t\n") for linea in carteles))
 
-
+# Hubo 33 sesiones de simposio
+# 192 presentaciones, 478 presentaciones orales y 553 presentaciones
 # Concatenación de la lista en un solo bloque de texto corrido
-simp = espacioSep.join(linea.strip() for linea in simposios)
+simpTexto = espacioSep.join(linea.strip() for linea in simposios)
 
 # Uso de expresiones regulares para extraer los bloques de interés
 # Selección del título
@@ -56,19 +58,40 @@ simp = espacioSep.join(linea.strip() for linea in simposios)
 # queda con una mayúscula suelta al final del texto. La r antes de las
 # comillas indica interpretación directa ("raw") del texto.
 regExp_sec = re.compile(r"(?! |IN207615|2015|,|[0-9]|AM|\n|[- ]{2,})([A-Z0-9ÁÉÍÓÚÑ:;¿\?\(\)\-\+\. ,]{25,})") 
-ms =  regExp_sec.findall(simp)
-titulosEnSimposios = list((linea[:-1].strip() for linea in ms))
+simpTitulos =  regExp_sec.findall(simpTexto)
+simpTitulos = list((linea[:-1].strip() for linea in simpTitulos))
 
 # Elimino la mayúscula sueltaque queda al final de algunos títulos.
-for i in range(len(titulosEnSimposios)):
-    a = re.search(" +[A-Z]$", titulosEnSimposios[i])
+for i in range(len(simpTitulos)):
+    a = re.search(" +[A-Z]$", simpTitulos[i])
     if a:
-      titulosEnSimposios[i] = re.sub(a.group(0), "", titulosEnSimposios[i])
+      simpTitulos[i] = re.sub(a.group(0), "", simpTitulos[i])
 
 # Recortar el bloque de texto
 # Está entre el correo electrónico del autor correspondiente e ID:
-regExp_sec = re.compile(r"([\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}") 
 regExp_sec = re.compile(r"(?<=@).*?(?= Palabras clave: )")
-textosEnSimposios =  regExp_sec.findall(simp)
+simpResumen =  regExp_sec.findall(simpTexto)
 
+# Elimina el residuo de email que quedó al inicio de los resumenes
+simpResumen = [re.sub("^[a-z\. ]+", "", t) for t in simpResumen]
+simpResumen = [resumen.strip() for resumen in simpResumen]
+
+# Recupera las palabras clave
+regExp_sec = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)") 
+simpPalClv = regExp_sec.findall(simpTexto)
+
+# Recupera el identificador del resumen 
+regExp_sec = re.compile(r"(ID:[ 0-9]+)") 
+simpID =  regExp_sec.findall(simpTexto)
+
+# Combina los datos en una lista anidada
+simpDatos = zip(simpID, simpTitulos, simpPalClv, simpResumen)
+simpDatos = [list(fila) for fila in simp_datos]
+
+# Escribe el bloque de simposios al disco
+with open("simposios.csv", "wb") as f:
+        w = csv.writer(f, dialect = "excel-tab") #use `delimiter = ','` for ',' in file
+        for fila in simpDatos:        
+           w.writerow(fila)
+        
 
