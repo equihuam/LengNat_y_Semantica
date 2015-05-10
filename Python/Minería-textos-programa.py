@@ -46,18 +46,30 @@ orales = list((linea.lstrip("^0123456789* \t\n") for linea in orales))
 carteles = list((linea.lstrip("^0123456789* \t\n") for linea in carteles))
 
 # Hubo 33 sesiones de simposio
-# 192 presentaciones, 478 presentaciones orales y 553 presentaciones
+# Se reportan los siguientes números de presentaciones:
+# 192 en simposio , 478 orales y 553 carteles
+# Pero recupero del documento de resumenes:
+# 186 en simposio, 
+
+# --------------- Simposios ----------------
+
 # Concatenación de la lista en un solo bloque de texto corrido
 simpTexto = espacioSep.join(linea.strip() for linea in simposios)
 
-# Uso de expresiones regulares para extraer los bloques de interés
+# Uso expresiones regulares para extraer los bloques de interés
+# del texto corrido de simposios contenido en simpTexto
+
+# Recupera el identificador del resumen 
+regExp_sec = re.compile(r"(ID:[ 0-9]+)") 
+simpID =  regExp_sec.findall(simpTexto)
+
 # Selección del título
 # Es un conjunto de caracteres en mayúscula. Hay que evitar leer el año 
 # y la hora y unas NOM o NMX, que caben como un patrón válido, así como 
 # unos agradecimientos al PAPIIT (ya los borré). Hay algunos títulos que 
 # queda con una mayúscula suelta al final del texto. La r antes de las
 # comillas indica interpretación directa ("raw") del texto.
-regExp_sec = re.compile(r"(?! |IN207615|2015|,|[0-9]|AM|\n|[- ]{2,})([A-Z0-9ÁÉÍÓÚÑ:;¿\?\(\)\-\+\. ,]{25,})") 
+regExp_sec = re.compile(r"(?! |IN207615|2015|,|[0-9]|AM|\n|[- ]{4,})([A-Z0-9ÁÉÍÓÚÑ&:;¿\?\(\)\-\+\.\", ]{25,})") 
 simpTitulos =  regExp_sec.findall(simpTexto)
 simpTitulos = list((linea[:-1].strip() for linea in simpTitulos))
 
@@ -74,24 +86,40 @@ simpResumen =  regExp_sec.findall(simpTexto)
 
 # Elimina el residuo de email que quedó al inicio de los resumenes
 simpResumen = [re.sub("^[a-z\. ]+", "", t) for t in simpResumen]
-simpResumen = [resumen.strip() for resumen in simpResumen]
 
 # Recupera las palabras clave
 regExp_sec = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)") 
 simpPalClv = regExp_sec.findall(simpTexto)
 
-# Recupera el identificador del resumen 
-regExp_sec = re.compile(r"(ID:[ 0-9]+)") 
-simpID =  regExp_sec.findall(simpTexto)
-
 # Combina los datos en una lista anidada
 simpDatos = zip(simpID, simpTitulos, simpPalClv, simpResumen)
-simpDatos = [list(fila) for fila in simp_datos]
+simpDatos = [list(fila) for fila in simpDatos]
 
-# Escribe el bloque de simposios al disco
+# Escribe el bloque de simposios al disco en formato csv
 with open("simposios.csv", "wb") as f:
-        w = csv.writer(f, dialect = "excel-tab") #use `delimiter = ','` for ',' in file
+        w = csv.writer(f, dialect = "excel-tab")
         for fila in simpDatos:        
            w.writerow(fila)
         
+
+# --------------- orales ----------------
+
+# Concatenado de los textos en un solo bloque corrido de orales
+oralTexto = espacioSep.join(linea.strip() for linea in orales)
+
+# Recupera el identificador del resumen 
+regExp_sec = re.compile(r"(ID:[ 0-9]+)") 
+oralID =  regExp_sec.findall(oralTexto)
+
+# Selección del título
+#(?!(?:static|my|admin|www)$)
+# GATA|NOM\-059|2015|,|[0-9]|AM| |\n|[- ]{2,}
+# (?<![A-Z0-9ÁÉÍÓÚÑ:;¿?()\-+.,])((?!(?:NOM-059-SEMARNAT))[A-ZÁÉÍÓÚÑ¿](?:(?!(?:[- ]{2,}|NOM\-059\-SEMARNAT))[A-Z0-9ÁÉÍÓÚÑ:;¿?()\-+. ,]){9,}(?<=[A-ZÁÉÍÓÚÑ?]))(?![a-z])
+regExp_sec = re.compile(r"(?<![A-Z0-9ÁÉÍÓÚÑ:;¿?()+.,])((?!(?:NOM-059-SEMARNAT|NOM-059 SEMARNAT 2010:|DAP-|GATA|NOM-059-2010-SEMARNAT))[A-ZÁÉÍÓÚÑ¿\"](?:(?!(?:[-]{2,}|-2010|GATA|NOM\-059\-SEMARNAT))[A-Z0-9ÁÉÍÓÚÑ&:;¿?()´\-+. ,\"]){19,}(?<=[A-ZÁÉÍÓÚÑ?&\"\-´ ]))(?![a-z])") 
+oralTitulos =  regExp_sec.findall(oralTexto)
+oralTitulos = list((linea[:-1].strip() for linea in oralTitulos))
+
+
+oralTitulos[346]
+
 
