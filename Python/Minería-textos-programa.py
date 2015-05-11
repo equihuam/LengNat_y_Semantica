@@ -57,6 +57,25 @@ RE_capturaTitulo = (
    r")" + # Termina el grupo de captura 
    r"(?![a-záéíóú])") # El patrón concluye al encontrar una minúscula tras la captura
 
+# Prepara la captura del título
+regExpTitulo = re.compile(RE_capturaTitulo) 
+
+# Expresión regular para capturar el identificador del resumen
+regExpID = re.compile(r"(ID:[ 0-9]+)") 
+
+# Expresión regular para capturar las palabras clave
+regExpClv = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)") 
+
+# Recupera el título del simposio como equivalente a "eje temático"
+regExpSimp = re.compile(r"(?<=Simposio: )(.*?)(?=(?:[ A-Z]{4,}|Parte [0-9]|  Congreso|[ -]{4,}))")
+
+# Recortar el bloque de texto que está entre el correo electrónico 
+# del autor correspondiente e ID:
+regExpTexto = re.compile(r"(?<=@).*?(?= Palabras clave: )")
+
+# Recupera el eje temático de presentaciones orales y carteles
+regExpEje = re.compile(r"(?<=Eje temático: )(.*?)(?=(?:[ A-Z]{4,}|  Congreso|[ -]{4,}))")
+
 # ------------------- Localización de archivos de texto --------------------
 # Los archivos de datos están en:
 # Software-github/LengNat_y_Semantica/Datos y textos
@@ -85,6 +104,12 @@ carteles = texto[33152:60329]
 espacioSep = " "
 presentacion = espacioSep.join(linea.strip() for linea in presentacion)
 
+presentacionDatos = [r"presentacion", r"ID:0", r"Presentación", r"Presentacion", r"Fronteras de la Ecología, Mundo Globalizado", presentacion]
+
+# Escribe el bloque de orales al disco en formato csv
+with open(u"presentación.csv", "wb") as f:
+        w = csv.writer(f, dialect = "excel-tab")
+        w.writerow(presentacionDatos)
 
 # Limpieza y segmentación de los resumenes título, texto, palClv e ID
 # Empieza por eliminar marcas de formato y espacios ed relleno
@@ -96,7 +121,7 @@ carteles = [linea.lstrip("^0123456789* \t\n") for linea in carteles]
 # Se reportan los siguientes números de presentaciones:
 # 192 en simposio , 478 orales y 553 carteles
 # Pero recupero del documento de resumenes:
-# 186 en simposio, 451 orales y 546 carteles
+# 186 en simposio, 451 orales y 547 carteles
 
 # --------------- Simposios ----------------
 
@@ -107,28 +132,26 @@ simpTexto = espacioSep.join(linea.strip() for linea in simposios)
 # del texto corrido de simposios contenido en simpTexto
 
 # Recupera el identificador del resumen 
-regExp_sec = re.compile(r"(ID:[ 0-9]+)") 
-simpID =  regExp_sec.findall(simpTexto)
+simpID =  regExpID.findall(simpTexto)
 
 # Recupera las palabras clave
-regExp_sec = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)") 
-simpPalClv = regExp_sec.findall(simpTexto)
+simpPalClv = regExpClv.findall(simpTexto)
+
+# Recupera el eje temático
+simpTema = regExpSimp.findall(simpTexto)
 
 # Selección del título: usa la expresión regular preparada al principio!
-regExp_sec = re.compile(RE_capturaTitulo) 
-simpTitulos =  regExp_sec.findall(simpTexto)
+simpTitulos =  regExpTitulo.findall(simpTexto)
 
-# Recortar el bloque de texto
-# Está entre el correo electrónico del autor correspondiente e ID:
-regExp_sec = re.compile(r"(?<=@).*?(?= Palabras clave: )")
-simpResumen =  regExp_sec.findall(simpTexto)
+# Recortar el bloque de texto del resumen
+simpResumen =  regExpTexto.findall(simpTexto)
 
 # Elimina el residuo de email que quedó al inicio de los resumenes
 simpResumen = [re.sub("^[a-z\. ]+", "", t) for t in simpResumen]
 
 # Combina los datos en una lista anidada
-simpDatos = zip(simpID, simpTitulos, simpPalClv, simpResumen)
-simpDatos = [list(fila) for fila in simpDatos]
+simpDatos = zip(simpID, simpTema, simpTitulos, simpPalClv, simpResumen)
+simpDatos = [["simposio"]+list(fila) for fila in simpDatos]
 
 # Escribe el bloque de simposios al disco en formato csv
 with open("simposios.csv", "wb") as f:
@@ -143,28 +166,27 @@ with open("simposios.csv", "wb") as f:
 oralTexto = espacioSep.join(linea.strip() for linea in orales)
 
 # Recupera el identificador del resumen 
-regExp_sec = re.compile(r"(ID:[ 0-9]+)") 
-oralID =  regExp_sec.findall(oralTexto)
+oralID =  regExpID.findall(oralTexto)
 
 #Extrae las palabras clave
-regExp_sec = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)") 
-oralPalClv = regExp_sec.findall(oralTexto)
+oralPalClv = regExpClv.findall(oralTexto)
+
+# Recupera el eje temático
+oralEje = regExpEje.findall(oralTexto)
 
 # Recupera los títulos de los resúmenes
-regExp_sec = re.compile(RE_capturaTitulo)
-oralTitulos =  regExp_sec.findall(oralTexto)
+oralTitulos =  regExpTitulo.findall(oralTexto)
 oralTitulos = [t.strip() for t in oralTitulos]
 
 # Extrae los textos de los resumenes
-regExp_sec = re.compile(r"(?<=@).*?(?= Palabras clave: )")
-oralResumen =  regExp_sec.findall(oralTexto)
+oralResumen =  regExpTexto.findall(oralTexto)
 
 # Elimina el residuo de email que quedó al inicio de los resumenes
 oralResumen = [re.sub("^[a-z\. ]+", "", t) for t in oralResumen]
 
 # Combina los datos en una lista anidada
-oralDatos = zip(oralID, oralTitulos, oralPalClv, oralResumen)
-oralDatos = [list(fila) for fila in oralDatos]
+oralDatos = zip(oralID, oralEje, oralTitulos, oralPalClv, oralResumen)
+oralDatos = [["oral"]+list(fila) for fila in oralDatos]
 
 # Escribe el bloque de orales al disco en formato csv
 with open("orales.csv", "wb") as f:
@@ -179,25 +201,20 @@ with open("orales.csv", "wb") as f:
 cartelTexto = espacioSep.join(linea.strip() for linea in carteles)
 
 # Recupera el identificador del resumen 
-regExp_sec = re.compile(r"(ID:[ 0-9]+)") 
-cartelID =  regExp_sec.findall(cartelTexto)
+cartelID =  regExpID.findall(cartelTexto)
 
 # Recupera las palabras clave
-regExp_sec = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)") 
-cartelPalClv = regExp_sec.findall(cartelTexto)
+cartelPalClv = regExpClv.findall(cartelTexto)
 
 # Recupera el eje temático
-regExp_sec = re.compile(r"(?<=Eje temático: )(.*?)(?=(?:[ A-Z]{4,}|  Congreso|[ -]{4,}))")
-cartelEje = regExp_sec.findall(cartelTexto)
+cartelEje = regExpEje.findall(cartelTexto)
 
 # Selección del título: usa la expresión regular preparada al principio!
-regExp_sec = re.compile(RE_capturaTitulo) 
-cartelTitulos =  regExp_sec.findall(cartelTexto)
+cartelTitulos =  regExpTitulo.findall(cartelTexto)
 
 # Recortar el bloque de texto
 # Está entre el correo electrónico del autor correspondiente e ID:
-regExp_sec = re.compile(r"(?<=@).*?(?= Palabras clave: )")
-cartelResumen =  regExp_sec.findall(cartelTexto)
+cartelResumen =  regExpTexto.findall(cartelTexto)
 
 # Elimina el residuo de email que quedó al inicio de los resumenes
 # Probelmas identificado: -noroeste.org (línes 258)  
@@ -205,11 +222,22 @@ cartelResumen =  regExp_sec.findall(cartelTexto)
 cartelResumen = [re.sub("^[a-z0-9\-\. ]+", "", t) for t in cartelResumen]
 
 # Combina los datos en una lista anidada
-cartelDatos = zip(cartelID, cartelTitulos, cartelPalClv, cartelResumen)
-cartelDatos = [list(fila) for fila in cartelDatos]
+cartelDatos = zip(cartelID, cartelEje, cartelTitulos, cartelPalClv, cartelResumen)
+cartelDatos = [["cartel"]+list(fila) for fila in cartelDatos]
 
-# Escribe el bloque de orales al disco en formato csv
+# Escribe el bloque de carteles al disco en formato csv
 with open("carteles.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
         for fila in cartelDatos:        
+           w.writerow(fila)
+
+#  --------------------------   Todo Junto  -------------------------------
+
+# Junta todos los bloques en uno solo
+todoDatos = [presentacionDatos] + simpDatos + oralDatos + cartelDatos
+
+# Escribe el paquete completo con todo junto al disco en formato csv
+with open("todo.csv", "wb") as f:
+        w = csv.writer(f, dialect = "excel-tab")
+        for fila in todoDatos:        
            w.writerow(fila)
