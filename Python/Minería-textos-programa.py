@@ -78,7 +78,7 @@ archivo.close()
 presentacion = texto[148:166]
 simposios = texto[1591:10611]
 orales = texto[10712:33043]
-carteles = texto[33152:60313]
+carteles = texto[33152:60329]
 
 # ------------------------ Presentación  ---------------------------
 # Elimina saltos de línea y junta todo en una sola línea de texto
@@ -185,6 +185,10 @@ cartelID =  regExp_sec.findall(cartelTexto)
 # Recupera las palabras clave
 regExp_sec = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)") 
 cartelPalClv = regExp_sec.findall(cartelTexto)
+
+# Recupera el eje temático
+regExp_sec = re.compile(r"(?<=Eje temático: )(.*?)(?=(?:[ A-Z]{4,}|  Congreso|[ -]{4,}))")
+cartelEje = regExp_sec.findall(cartelTexto)
 
 # Selección del título: usa la expresión regular preparada al principio!
 regExp_sec = re.compile(RE_capturaTitulo) 

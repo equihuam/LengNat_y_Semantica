@@ -33569,7 +33569,7 @@ Investigamos la biología reproductiva de Pachira aquatica (incluyendo la biolog
 
 Palabras clave: Polinización, Biología Floral, Chiropterofilia, Esfingofilia, Sistema reproductivo.
 ID:8001
-
+Eje temático: Ecología Funcional
 Congreso
 Mexicano
 
@@ -33758,6 +33758,7 @@ El intercambio de gases puede ser afectado principalmente por la disponibilidad 
 
 Palabras clave: Quercus, densidad de estomas, intercambio de gases, disponibilidad de agua, cuenca de Cuitzeo.
 ID:8011
+Eje temático: Ecología Funcional
 Congreso
 Mexicano
 
@@ -40953,6 +40954,7 @@ Todas las plantas como seres vivos adquieren nutrientes indispensables para su d
 
 Palabras clave: macronutriente, micronutriente, Eucalyptus, plantación, absorción
 ID:8012
+Eje temático: Ecología de Poblaciones
 Congreso
 Mexicano
 
@@ -41154,6 +41156,7 @@ La hibridación es un proceso que ocurre de manera natural y ha sido reportado f
 
 Palabras clave: Hibridación, Introgresión, Multiespecie, Quercus, Microsatélites
 ID:8002
+Eje temático: Ecología de Poblaciones
 Congreso
 Mexicano
 
@@ -42658,6 +42661,7 @@ Los ácaros mesostigmados que habitan en el suelo son en su mayoría depredadore
 
 Palabras clave: ácaros mesotigmata, electro remediación, suelos salinos
 ID:8003
+Eje temático: Ecología de Comunidades
 Congreso
 Mexicano
 
@@ -42851,6 +42855,7 @@ El bosque tropical seco (BTS) posee una gran diversidad de organismos, una marca
 
 Palabras clave: fragmentación, fenología, bosque tropical seco, traslape de nicho, sincronía.
 ID:8004
+Eje temático: Ecología de Comunidades
 Congreso
 Mexicano
 
@@ -43751,6 +43756,7 @@ Stenocereus pruinosus (Otto) Buxb. es una cactácea columnar de amplia distribuc
 
 Palabras clave: Capacidad de germinación, tiempo medio de germinación, hidropriming, Cactaceae
 ID:8005
+Eje temático: Ecología Funcional
 Congreso
 Mexicano
 
@@ -43943,6 +43949,7 @@ Las orquídeas han sido amenazadas por actividades como colecta para uso ornamen
 
 Palabras clave: conservación, endémicas, S. nigriflora, N. dressleriana, categorías
 ID:8006
+Eje temático: Ecología de la Conservación
 Congreso
 Mexicano
 
@@ -49755,6 +49762,7 @@ Los murciélagos han sido utilizados como grupo focal en la evaluación del impa
 
 Palabras clave: murciélagos, diversidad, riqueza, Usumacinta, inventario.
 ID:8007
+Eje temático: Ecología de Comunidades
 Congreso
 Mexicano
 
@@ -49948,6 +49956,7 @@ Los campos rupestres, tipo de vegetación de los Cerrados (sabanas brasileñas) 
 
 Palabras clave: altitud, Cerrado, afloramiento rocoso, herbáceo-arbustivo.
 ID:8008
+Eje temático: Ecología de Comunidades
 Congreso
 Mexicano
 
@@ -50536,6 +50545,7 @@ Vivimos una crisis de extinciones sin precedentes en la historia de la humanidad
 
 Palabras clave: endemismo, complementariedad, rareza, Cactaceae, Desierto Sonorense.
 ID:8009
+Eje temático: Ecología de la Conservación
 Congreso
 Mexicano
 
@@ -50734,6 +50744,7 @@ Brachypelma vagans, la tarántula Mexicana de cadena roja, especie enlistada en 
 
 Palabras clave: tarántula, Brachypelma, genética, poblaciones, invasor.
 ID:8010
+Eje temático: Ecología de la Conservación
 Congreso
 Mexicano
 
