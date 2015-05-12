@@ -7,6 +7,8 @@ Este es archivo temporal
 
 # Inicializa la librería nltk
 import nltk
+import os
+from nltk.book import *
 
 # descarga los anexos del libro de "Natural Language Processing"
 
@@ -107,9 +109,9 @@ V = set(text1)
 palabrota = [w for w in V if len(w) > 15]
 
 # Palabras largas y frecuentes!!!!!
-sorted(p for p in set(text1) if len(p) > 10 and frec_dist[p] >15)
+sorted(p for p in set(text1) if len(p) > 10 and frec_dist[p] > 15)
 
-
+os.getcwd() # directorio actual
 
 
 

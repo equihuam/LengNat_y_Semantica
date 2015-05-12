@@ -69,19 +69,19 @@ regExpClv = re.compile(r"(?<=Palabras clave: ).*?(?=ID:)")
 # Recupera el título del simposio como equivalente a "eje temático"
 regExpSimp = re.compile(r"(?<=Simposio: )(.*?)(?=(?:[ A-Z]{4,}|Parte [0-9]|  Congreso|[ -]{4,}))")
 
+# Recupera el eje temático de presentaciones orales y carteles
+regExpEje = re.compile(r"(?<=Eje temático: )(.*?)(?=(?:[ A-Z]{4,}|  Congreso|[ -]{4,}))")
+
 # Recortar el bloque de texto que está entre el correo electrónico 
 # del autor correspondiente e ID:
 regExpTexto = re.compile(r"(?<=@).*?(?= Palabras clave: )")
-
-# Recupera el eje temático de presentaciones orales y carteles
-regExpEje = re.compile(r"(?<=Eje temático: )(.*?)(?=(?:[ A-Z]{4,}|  Congreso|[ -]{4,}))")
 
 # ------------------- Localización de archivos de texto --------------------
 # Los archivos de datos están en:
 # Software-github/LengNat_y_Semantica/Datos y textos
 # Abrie el archivo y carga en "texto"
 os.getcwd() # directorio actual
-rutaBase = "C:/Users/Miguel/Documents/0 Versiones/1 Personales/Software-github/"
+rutaBase = "C:/Users/Miguel/Documents/0 Versiones/2 Proyectos/Software-github/"
 rutaTextos = "LengNat_y_Semantica/Datos y textos"
 os.chdir(rutaBase + rutaTextos)
 archivosTexto = os.listdir(rutaBase + rutaTextos)
@@ -110,6 +110,11 @@ presentacionDatos = [r"presentacion", r"ID:0", r"Presentación", r"Presentacion"
 with open(u"presentación.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
         w.writerow(presentacionDatos)
+
+with open(u"pres.txt", "wb") as f:
+        w = csv.writer(f, dialect = "excel-tab")
+        w.writerow([presentacion])
+
 
 # Limpieza y segmentación de los resumenes título, texto, palClv e ID
 # Empieza por eliminar marcas de formato y espacios ed relleno
@@ -241,3 +246,10 @@ with open("todo.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
         for fila in todoDatos:        
            w.writerow(fila)
+
+# Escribe todo sin metadatos
+with open(u"VCME-todo-sin_metadatos.csv", "wb") as f:
+        w = csv.writer(f, dialect = "excel-tab")
+        for fila in todoDatos:        
+           w.writerow([fila[5]])
+
