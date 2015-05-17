@@ -74,7 +74,8 @@ regExpEje = re.compile(r"(?<=Eje temático: )(.*?)(?=(?:[ A-Z]{4,}|  Congreso|[ 
 
 # Recortar el bloque de texto que está entre el correo electrónico 
 # del autor correspondiente e ID:
-regExpTexto = re.compile(r"(?<=@).*?(?= Palabras clave: )")
+regExpTexto = re.compile(r"(?<=@)(?:[-.a-z0-9 ]+)(.*?)(?= Palabras clave: )")
+
 
 # ------------------- Localización de archivos de texto --------------------
 # Los archivos de datos están en:
@@ -104,11 +105,12 @@ carteles = texto[33152:60329]
 espacioSep = " "
 presentacion = espacioSep.join(linea.strip() for linea in presentacion)
 
-presentacionDatos = [r"presentacion", r"ID:0", r"Presentación", r"Presentacion", r"Fronteras de la Ecología, Mundo Globalizado", presentacion]
+presentacionDatos = [r"presentacion", r"ID:0", r"Presentación", r"Presentacion", r"Fronteras de la Ecología, Mundo Globalizado", r"ConsejoDirectivo", presentacion]
 
 # Escribe el bloque de orales al disco en formato csv
-with open(u"presentación.csv", "wb") as f:
+with open(u"VCME-presentación.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
+        w.writerow((r"Tipo", r"ID", r"Tema", r"Título", r"PalClv", r"Autores", r"Resumen"))
         w.writerow(presentacionDatos)
 
 with open(u"pres.txt", "wb") as f:
@@ -130,6 +132,14 @@ carteles = [linea.lstrip("^0123456789* \t\n") for linea in carteles]
 
 # --------------- Simposios ----------------
 
+# Captura el bloque de autores
+simpAutores = [re.sub("[\s\.\-0-9\*]", "", linea) for linea 
+                in simposios if re.search("[*]", linea) != None]
+
+# Captura el correo electrónico para contacto
+simpEmail = [re.sub("[\s\.\-0-9\*]", "", linea) for linea 
+             in simposios if re.search("[@]", linea) != None]
+
 # Concatenación de la lista en un solo bloque de texto corrido
 simpTexto = espacioSep.join(linea.strip() for linea in simposios)
 
@@ -150,22 +160,29 @@ simpTitulos =  regExpTitulo.findall(simpTexto)
 
 # Recortar el bloque de texto del resumen
 simpResumen =  regExpTexto.findall(simpTexto)
-
-# Elimina el residuo de email que quedó al inicio de los resumenes
-simpResumen = [re.sub("^[a-z\. ]+", "", t) for t in simpResumen]
+simpResumen = [t.strip() for t in simpResumen]
 
 # Combina los datos en una lista anidada
-simpDatos = zip(simpID, simpTema, simpTitulos, simpPalClv, simpResumen)
+simpDatos = zip(simpID, simpTema, simpTitulos, simpPalClv, simpAutores, simpResumen)
 simpDatos = [["simposio"]+list(fila) for fila in simpDatos]
 
 # Escribe el bloque de simposios al disco en formato csv
-with open("simposios.csv", "wb") as f:
+with open("VCME-simposios.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
+        w.writerow((r"Tipo", r"ID", r"Tema", r"Título", r"PalClv", r"Autores", r"Resumen"))
         for fila in simpDatos:        
            w.writerow(fila)
         
 
 # --------------- orales ----------------
+
+# Captura el bloque de autores
+oralAutores = [linea for linea in orales if re.search("[*]", linea) != None]
+oralAutores = [re.sub("[\s\.\-0-9\*]", "", linea) for linea in oralAutores]
+
+# Captura el correo electrónico para contacto
+oralEmail = [re.sub("[\s\.\-0-9\*]", "", linea) for linea 
+             in orales if re.search("[@]", linea) != None]
 
 # Concatenado de los textos en un solo bloque corrido de orales
 oralTexto = espacioSep.join(linea.strip() for linea in orales)
@@ -185,17 +202,16 @@ oralTitulos = [t.strip() for t in oralTitulos]
 
 # Extrae los textos de los resumenes
 oralResumen =  regExpTexto.findall(oralTexto)
-
-# Elimina el residuo de email que quedó al inicio de los resumenes
-oralResumen = [re.sub("^[a-z\. ]+", "", t) for t in oralResumen]
+oralResumen = [t.strip() for t in oralResumen]
 
 # Combina los datos en una lista anidada
-oralDatos = zip(oralID, oralEje, oralTitulos, oralPalClv, oralResumen)
+oralDatos = zip(oralID, oralEje, oralTitulos, oralPalClv, oralAutores, oralResumen)
 oralDatos = [["oral"]+list(fila) for fila in oralDatos]
 
 # Escribe el bloque de orales al disco en formato csv
-with open("orales.csv", "wb") as f:
+with open("VCME-orales.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
+        w.writerow((r"Tipo", r"ID", r"Tema", r"Título", r"PalClv", r"Autores", r"Resumen"))
         for fila in oralDatos:        
            w.writerow(fila)
 
@@ -203,6 +219,15 @@ with open("orales.csv", "wb") as f:
 
 # Inicia en línea 33153 del documento fuente
 # Concatenado de los textos en un solo bloque corrido de orales
+
+# Captura el bloque de autores
+cartelAutores = [linea for linea in carteles if re.search("[*]", linea) != None]
+cartelAutores = [re.sub("[\s\.\-0-9\*]", "", linea) for linea in cartelAutores]
+
+# Captura el correo electrónico para contacto
+cartelEmail = [re.sub("[\s\.\-0-9\*]", "", linea) for linea 
+               in carteles if re.search("[@]", linea) != None]
+
 cartelTexto = espacioSep.join(linea.strip() for linea in carteles)
 
 # Recupera el identificador del resumen 
@@ -220,19 +245,16 @@ cartelTitulos =  regExpTitulo.findall(cartelTexto)
 # Recortar el bloque de texto
 # Está entre el correo electrónico del autor correspondiente e ID:
 cartelResumen =  regExpTexto.findall(cartelTexto)
-
-# Elimina el residuo de email que quedó al inicio de los resumenes
-# Probelmas identificado: -noroeste.org (línes 258)  
-#                         165edu.mx (línea 95)
-cartelResumen = [re.sub("^[a-z0-9\-\. ]+", "", t) for t in cartelResumen]
+cartelResumen = [t.strip() for t in cartelResumen]
 
 # Combina los datos en una lista anidada
-cartelDatos = zip(cartelID, cartelEje, cartelTitulos, cartelPalClv, cartelResumen)
+cartelDatos = zip(cartelID, cartelEje, cartelTitulos, cartelPalClv, cartelAutores, cartelResumen)
 cartelDatos = [["cartel"]+list(fila) for fila in cartelDatos]
 
 # Escribe el bloque de carteles al disco en formato csv
-with open("carteles.csv", "wb") as f:
+with open("VCME-carteles.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
+        w.writerow((r"Tipo", r"ID", r"Tema", r"Título", r"PalClv", r"Autores", r"Resumen"))
         for fila in cartelDatos:        
            w.writerow(fila)
 
@@ -242,8 +264,9 @@ with open("carteles.csv", "wb") as f:
 todoDatos = [presentacionDatos] + simpDatos + oralDatos + cartelDatos
 
 # Escribe el paquete completo con todo junto al disco en formato csv
-with open("todo.csv", "wb") as f:
+with open("VCME-todo.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
+        w.writerow((r"Tipo", r"ID", r"Tema", r"Título", r"PalClv", r"Autores", r"Resumen"))
         for fila in todoDatos:        
            w.writerow(fila)
 
@@ -253,3 +276,17 @@ with open(u"VCME-todo-sin_metadatos.csv", "wb") as f:
         for fila in todoDatos:        
            w.writerow([fila[5]])
 
+# Lista de presentaciones y correos
+simpEmail = [list(fila) for fila in zip(simpID, simpTitulos, simpEmail, simpAutores)]
+oralEmail = [list(fila) for fila in zip(oralID, oralTitulos, oralEmail, oralAutores)]
+cartelEmail = [list(fila) for fila in zip(cartelID, cartelTitulos, cartelEmail, cartelAutores)]
+todoEmail = simpEmail + oralEmail + cartelEmail 
+
+# Escribe todo sin metadatos
+with open(u"VCME-emails.csv", "wb") as f:
+        w = csv.writer(f, dialect = "excel-tab")
+        w.writerow((r"ID", r"Título", r"e-mail", r"Autores"))
+        for fila in todoEmail:        
+           w.writerow(fila[0:2]+ [re.sub("([A-Z])", " \\1", fila[3]).lstrip()])
+           
+           
