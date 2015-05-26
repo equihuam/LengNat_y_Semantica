@@ -14,6 +14,7 @@ import nltk
 import re
 import os # biblioteca de acceso a sistema operativo
 import csv
+import codecs
 
 # --------------------  Expresión Regular -----------------------------
 # Prepara el código de expresión regular para la selección del título
@@ -86,13 +87,17 @@ rutaBase = "C:/Users/Miguel/Documents/0 Versiones/2 Proyectos/Software-github/"
 rutaTextos = "LengNat_y_Semantica/Datos y textos"
 os.chdir(rutaBase + rutaTextos)
 archivosTexto = os.listdir(rutaBase + rutaTextos)
-archivosTexto.index("memorias_en_edicion_doc.txt")
-archivo = open("memorias_en_edicion_doc.txt",'r')
+#archivosTexto.index("memorias_en_edicion_doc.txt")
+archivo = codecs.open("memorias_en_edicion_doc.txt", mode = "r", encoding = "utf-8")
+archivo = open("memorias_en_edicion_doc.txt", "r")
 texto = archivo.readlines()
 archivo.close()
 
 # ---------  Segmentación por bloques de contenido ---------------------
 # -------- presentación, simposios, orales y carteles ------------------
+
+# Elimina comillas en el texto
+texto = [re.sub(r"[\"\']", "", linea) for linea in texto]
 
 # Corta los bloques de  interés 
 presentacion = texto[148:166]
@@ -116,7 +121,6 @@ with open(u"VCME-presentación.csv", "wb") as f:
 with open(u"pres.txt", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
         w.writerow([presentacion])
-
 
 # Limpieza y segmentación de los resumenes título, texto, palClv e ID
 # Empieza por eliminar marcas de formato y espacios ed relleno
@@ -285,7 +289,7 @@ todoEmail = simpEmail + oralEmail + cartelEmail
 # Escribe todo sin metadatos
 with open(u"VCME-emails.csv", "wb") as f:
         w = csv.writer(f, dialect = "excel-tab")
-        w.writerow((r"ID", r"Título", r"e-mail", r"Autores"))
+        w.writerow(("ID", "Título", "e-mail", "Autores"))
         for fila in todoEmail:        
            w.writerow(fila[0:2]+ [re.sub("([A-Z])", " \\1", fila[3]).lstrip()])
            
